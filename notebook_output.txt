@@ -1,0 +1,751 @@
+[TRAIN] RESUMING from epoch=3, global_step=90981
+                                                                                         Running verification at step 92000...
+Verification done (LFW): acc=97.00%, t=1.2915
+Verification done (CFP-FP): acc=84.60%, t=1.6461
+epoch 4/20:   3%|▎         | 1020/30327 [02:33<29:34:58,  3.63s/it, acc=0.0298, loss=22.7]Verification done (AgeDB-30): acc=82.97%, t=1.6844
+                                                                                          Running verification at step 94000...
+Verification done (LFW): acc=96.87%, t=1.3714
+Verification done (CFP-FP): acc=84.59%, t=1.6579
+epoch 4/20:  10%|▉         | 3020/30327 [07:26<27:41:48,  3.65s/it, acc=0.0299, loss=22.7]Verification done (AgeDB-30): acc=83.22%, t=1.6017
+                                                                                          Running verification at step 96000...
+Verification done (LFW): acc=97.42%, t=1.3139
+Verification done (CFP-FP): acc=84.70%, t=1.6684
+epoch 4/20:  17%|█▋        | 5020/30327 [11:53<25:02:52,  3.56s/it, acc=0.03, loss=22.8]Verification done (AgeDB-30): acc=83.42%, t=1.6627
+                                                                                        Running verification at step 98000...
+Verification done (LFW): acc=97.50%, t=1.3166
+Verification done (CFP-FP): acc=84.94%, t=1.6607
+epoch 4/20:  23%|██▎       | 7020/30327 [16:18<23:03:59,  3.56s/it, acc=0.03, loss=22.8]Verification done (AgeDB-30): acc=83.08%, t=1.6165
+                                                                                        Running verification at step 100000...
+Verification done (LFW): acc=97.22%, t=1.3859
+Verification done (CFP-FP): acc=84.76%, t=1.6597
+epoch 4/20:  30%|██▉       | 9020/30327 [21:04<21:43:13,  3.67s/it, acc=0.0301, loss=22.8]Verification done (AgeDB-30): acc=83.60%, t=1.6884
+                                                                                          Running verification at step 102000...
+Verification done (LFW): acc=97.28%, t=1.3335
+Verification done (CFP-FP): acc=84.84%, t=1.6590
+epoch 4/20:  36%|███▋      | 11020/30327 [25:48<19:27:18,  3.63s/it, acc=0.0302, loss=22.8]Verification done (AgeDB-30): acc=83.38%, t=1.6785
+                                                                                           Running verification at step 104000...
+Verification done (LFW): acc=97.18%, t=1.3894
+Verification done (CFP-FP): acc=85.03%, t=1.7044
+epoch 4/20:  43%|████▎     | 13020/30327 [30:33<17:54:59,  3.73s/it, acc=0.0301, loss=22.8]Verification done (AgeDB-30): acc=83.18%, t=1.6831
+                                                                                           Running verification at step 106000...
+Verification done (LFW): acc=97.00%, t=1.3287
+Verification done (CFP-FP): acc=85.13%, t=1.6642
+epoch 4/20:  50%|████▉     | 15020/30327 [35:07<15:28:17,  3.64s/it, acc=0.0302, loss=22.8]Verification done (AgeDB-30): acc=83.02%, t=1.6448
+                                                                                           Running verification at step 108000...
+Verification done (LFW): acc=97.28%, t=1.3024
+Verification done (CFP-FP): acc=84.77%, t=1.6720
+epoch 4/20:  56%|█████▌    | 17020/30327 [39:45<14:06:23,  3.82s/it, acc=0.0302, loss=22.8]Verification done (AgeDB-30): acc=83.57%, t=1.6845
+                                                                                           Running verification at step 110000...
+Verification done (LFW): acc=97.53%, t=1.3220
+Verification done (CFP-FP): acc=84.81%, t=1.6424
+epoch 4/20:  63%|██████▎   | 19020/30327 [44:25<11:21:59,  3.62s/it, acc=0.0302, loss=22.8]Verification done (AgeDB-30): acc=83.53%, t=1.6893
+                                                                                           Running verification at step 112000...
+Verification done (LFW): acc=97.28%, t=1.3313
+Verification done (CFP-FP): acc=84.90%, t=1.6432
+epoch 4/20:  69%|██████▉   | 21020/30327 [49:09<9:19:21,  3.61s/it, acc=0.0302, loss=22.8] Verification done (AgeDB-30): acc=83.43%, t=1.7030
+                                                                                          Running verification at step 114000...
+Verification done (LFW): acc=97.37%, t=1.3939
+Verification done (CFP-FP): acc=85.04%, t=1.6469
+epoch 4/20:  76%|███████▌  | 23020/30327 [53:41<7:31:33,  3.71s/it, acc=0.0302, loss=22.8] Verification done (AgeDB-30): acc=83.97%, t=1.6608
+                                                                                          Running verification at step 116000...
+Verification done (LFW): acc=97.50%, t=1.3837
+Verification done (CFP-FP): acc=84.77%, t=1.6820
+epoch 4/20:  83%|████████▎ | 25020/30327 [58:20<5:31:27,  3.75s/it, acc=0.0303, loss=22.8]Verification done (AgeDB-30): acc=83.75%, t=1.6547
+                                                                                          Running verification at step 118000...
+Verification done (LFW): acc=97.35%, t=1.3944
+Verification done (CFP-FP): acc=84.61%, t=1.6295
+epoch 4/20:  89%|████████▉ | 27020/30327 [1:02:58<3:24:19,  3.71s/it, acc=0.0304, loss=22.8]Verification done (AgeDB-30): acc=83.85%, t=1.6674
+                                                                                            Running verification at step 120000...
+Verification done (LFW): acc=97.38%, t=1.3533
+Verification done (CFP-FP): acc=85.41%, t=1.6827
+epoch 4/20:  96%|█████████▌| 29020/30327 [1:07:37<1:24:48,  3.89s/it, acc=0.0304, loss=22.8]Verification done (AgeDB-30): acc=84.75%, t=1.6378
+epoch 4/20: 100%|██████████| 30327/30327 [1:10:39<00:00,  7.15it/s, acc=0.0304, loss=22.8]  
+epoch 4/20 train_loss=22.7705 train_acc=0.030387 verif_acc=97.3833% verif_t=1.35 epoch_time=4239.1s ETA=18:50:26
+[CKPT] Saved checkpoints/epoch_4.pt and checkpoints/latest.pt
+                                                                                        Running verification at step 122000...
+Verification done (LFW): acc=97.32%, t=1.3393
+Verification done (CFP-FP): acc=85.56%, t=1.6743
+epoch 5/20:   2%|▏         | 693/30327 [01:43<30:05:02,  3.65s/it, acc=0.032, loss=22.7]Verification done (AgeDB-30): acc=83.95%, t=1.6552
+                                                                                         Running verification at step 124000...
+Verification done (LFW): acc=97.25%, t=1.3436
+Verification done (CFP-FP): acc=85.14%, t=1.7246
+epoch 5/20:   9%|▉         | 2693/30327 [06:22<29:11:35,  3.80s/it, acc=0.0316, loss=22.7]Verification done (AgeDB-30): acc=84.42%, t=1.6798
+                                                                                          Running verification at step 126000...
+Verification done (LFW): acc=97.42%, t=1.3227
+Verification done (CFP-FP): acc=85.13%, t=1.6281
+epoch 5/20:  15%|█▌        | 4693/30327 [10:58<26:59:57,  3.79s/it, acc=0.0318, loss=22.7]Verification done (AgeDB-30): acc=83.82%, t=1.6664
+                                                                                          Running verification at step 128000...
+Verification done (LFW): acc=97.43%, t=1.3991
+Verification done (CFP-FP): acc=85.26%, t=1.7225
+epoch 5/20:  22%|██▏       | 6693/30327 [15:30<24:04:06,  3.67s/it, acc=0.0318, loss=22.7]Verification done (AgeDB-30): acc=84.20%, t=1.6308
+                                                                                          Running verification at step 130000...
+Verification done (LFW): acc=97.60%, t=1.3509
+Verification done (CFP-FP): acc=85.03%, t=1.6473
+epoch 5/20:  29%|██▊       | 8693/30327 [20:13<22:26:16,  3.73s/it, acc=0.0317, loss=22.7]Verification done (AgeDB-30): acc=83.97%, t=1.6828
+                                                                                          Running verification at step 132000...
+Verification done (LFW): acc=97.37%, t=1.3672
+Verification done (CFP-FP): acc=84.99%, t=1.6568
+epoch 5/20:  35%|███▌      | 10693/30327 [24:50<20:38:26,  3.78s/it, acc=0.0316, loss=22.7]Verification done (AgeDB-30): acc=84.28%, t=1.7160
+                                                                                           Running verification at step 134000...
+Verification done (LFW): acc=97.53%, t=1.2931
+Verification done (CFP-FP): acc=85.29%, t=1.6904
+epoch 5/20:  42%|████▏     | 12693/30327 [29:27<17:49:08,  3.64s/it, acc=0.0315, loss=22.7]Verification done (AgeDB-30): acc=84.12%, t=1.6516
+                                                                                           Running verification at step 136000...
+Verification done (LFW): acc=97.70%, t=1.3560
+Verification done (CFP-FP): acc=85.06%, t=1.6331
+epoch 5/20:  48%|████▊     | 14693/30327 [34:04<16:11:30,  3.73s/it, acc=0.0315, loss=22.8]Verification done (AgeDB-30): acc=84.47%, t=1.6685
+                                                                                           Running verification at step 138000...
+Verification done (LFW): acc=97.60%, t=1.3679
+Verification done (CFP-FP): acc=85.04%, t=1.6504
+epoch 5/20:  55%|█████▌    | 16693/30327 [38:39<14:22:48,  3.80s/it, acc=0.0315, loss=22.8]Verification done (AgeDB-30): acc=84.62%, t=1.6775
+                                                                                           Running verification at step 140000...
+Verification done (LFW): acc=97.72%, t=1.3963
+Verification done (CFP-FP): acc=85.67%, t=1.7081
+epoch 5/20:  62%|██████▏   | 18693/30327 [43:06<11:56:16,  3.69s/it, acc=0.0315, loss=22.8]Verification done (AgeDB-30): acc=84.45%, t=1.6459
+                                                                                           Running verification at step 142000...
+Verification done (LFW): acc=97.65%, t=1.3230
+Verification done (CFP-FP): acc=86.17%, t=1.6823
+epoch 5/20:  68%|██████▊   | 20693/30327 [47:37<9:54:46,  3.70s/it, acc=0.0316, loss=22.8] Verification done (AgeDB-30): acc=84.22%, t=1.6866
+                                                                                          Running verification at step 144000...
+Verification done (LFW): acc=97.52%, t=1.3345
+Verification done (CFP-FP): acc=85.59%, t=1.7053
+epoch 5/20:  75%|███████▍  | 22693/30327 [52:04<7:41:57,  3.63s/it, acc=0.0316, loss=22.8] Verification done (AgeDB-30): acc=84.03%, t=1.6700
+                                                                                          Running verification at step 146000...
+Verification done (LFW): acc=97.48%, t=1.3301
+Verification done (CFP-FP): acc=85.77%, t=1.6776
+epoch 5/20:  81%|████████▏ | 24693/30327 [56:18<5:41:32,  3.64s/it, acc=0.0316, loss=22.8]Verification done (AgeDB-30): acc=84.23%, t=1.6962
+                                                                                          Running verification at step 148000...
+Verification done (LFW): acc=97.42%, t=1.3777
+Verification done (CFP-FP): acc=85.80%, t=1.6750
+epoch 5/20:  88%|████████▊ | 26693/30327 [1:00:32<3:41:21,  3.65s/it, acc=0.0317, loss=22.8]Verification done (AgeDB-30): acc=83.67%, t=1.7263
+                                                                                            Running verification at step 150000...
+Verification done (LFW): acc=97.55%, t=1.3239
+Verification done (CFP-FP): acc=85.54%, t=1.6870
+epoch 5/20:  95%|█████████▍| 28693/30327 [1:04:46<1:38:10,  3.60s/it, acc=0.0317, loss=22.7]Verification done (AgeDB-30): acc=84.97%, t=1.6690
+epoch 5/20: 100%|██████████| 30327/30327 [1:07:59<00:00,  7.43it/s, acc=0.0317, loss=22.7]  
+epoch 5/20 train_loss=22.7438 train_acc=0.031718 verif_acc=97.5500% verif_t=1.32 epoch_time=4079.8s ETA=16:59:56
+[CKPT] Saved checkpoints/epoch_5.pt and checkpoints/latest.pt
+                                                                                       Running verification at step 152000...
+Verification done (LFW): acc=97.62%, t=1.3875
+Verification done (CFP-FP): acc=85.00%, t=1.7144
+epoch 6/20:   1%|          | 366/30327 [01:00<30:12:13,  3.63s/it, acc=0.0334, loss=22.7]Verification done (AgeDB-30): acc=84.87%, t=1.6679
+                                                                                         Running verification at step 154000...
+Verification done (LFW): acc=97.38%, t=1.3343
+Verification done (CFP-FP): acc=86.16%, t=1.6483
+epoch 6/20:   8%|▊         | 2366/30327 [05:14<28:11:43,  3.63s/it, acc=0.033, loss=22.7]Verification done (AgeDB-30): acc=84.18%, t=1.7001
+                                                                                         Running verification at step 156000...
+Verification done (LFW): acc=97.77%, t=1.3518
+Verification done (CFP-FP): acc=85.63%, t=1.6625
+epoch 6/20:  14%|█▍        | 4366/30327 [09:27<26:06:48,  3.62s/it, acc=0.0328, loss=22.7]Verification done (AgeDB-30): acc=84.50%, t=1.7026
+                                                                                          Running verification at step 158000...
+Verification done (LFW): acc=97.47%, t=1.3359
+Verification done (CFP-FP): acc=85.60%, t=1.6913
+epoch 6/20:  21%|██        | 6366/30327 [13:41<23:56:50,  3.60s/it, acc=0.0324, loss=22.7]Verification done (AgeDB-30): acc=84.08%, t=1.6541
+                                                                                          Running verification at step 160000...
+Verification done (LFW): acc=97.60%, t=1.3404
+Verification done (CFP-FP): acc=86.20%, t=1.6994
+epoch 6/20:  28%|██▊       | 8366/30327 [17:55<21:56:33,  3.60s/it, acc=0.0325, loss=22.7]Verification done (AgeDB-30): acc=85.05%, t=1.6744
+                                                                                          Running verification at step 162000...
+Verification done (LFW): acc=97.60%, t=1.3060
+Verification done (CFP-FP): acc=85.81%, t=1.6624
+epoch 6/20:  34%|███▍      | 10366/30327 [22:08<20:00:10,  3.61s/it, acc=0.0326, loss=22.7]Verification done (AgeDB-30): acc=83.98%, t=1.6887
+                                                                                           Running verification at step 164000...
+Verification done (LFW): acc=97.83%, t=1.3658
+Verification done (CFP-FP): acc=86.11%, t=1.7026
+epoch 6/20:  41%|████      | 12366/30327 [26:22<18:04:52,  3.62s/it, acc=0.0325, loss=22.7]Verification done (AgeDB-30): acc=84.75%, t=1.6850
+                                                                                           Running verification at step 166000...
+Verification done (LFW): acc=97.83%, t=1.3557
+Verification done (CFP-FP): acc=85.94%, t=1.6762
+epoch 6/20:  47%|████▋     | 14366/30327 [30:36<16:01:55,  3.62s/it, acc=0.0324, loss=22.7]Verification done (AgeDB-30): acc=84.47%, t=1.6864
+                                                                                           Running verification at step 168000...
+Verification done (LFW): acc=97.43%, t=1.3368
+Verification done (CFP-FP): acc=85.47%, t=1.6960
+epoch 6/20:  54%|█████▍    | 16366/30327 [34:49<13:59:05,  3.61s/it, acc=0.0324, loss=22.7]Verification done (AgeDB-30): acc=84.75%, t=1.6564
+                                                                                           Running verification at step 170000...
+Verification done (LFW): acc=97.63%, t=1.3051
+Verification done (CFP-FP): acc=85.59%, t=1.6683
+epoch 6/20:  61%|██████    | 18366/30327 [39:03<11:58:39,  3.61s/it, acc=0.0324, loss=22.7]Verification done (AgeDB-30): acc=84.25%, t=1.7009
+                                                                                           Running verification at step 172000...
+Verification done (LFW): acc=97.45%, t=1.3587
+Verification done (CFP-FP): acc=85.57%, t=1.6626
+epoch 6/20:  67%|██████▋   | 20366/30327 [43:17<10:05:27,  3.65s/it, acc=0.0324, loss=22.7]Verification done (AgeDB-30): acc=84.40%, t=1.6900
+                                                                                           Running verification at step 174000...
+Verification done (LFW): acc=97.65%, t=1.3575
+Verification done (CFP-FP): acc=86.37%, t=1.6928
+epoch 6/20:  74%|███████▎  | 22366/30327 [47:30<8:00:59,  3.63s/it, acc=0.0324, loss=22.7] Verification done (AgeDB-30): acc=84.72%, t=1.6661
+                                                                                          Running verification at step 176000...
+Verification done (LFW): acc=97.67%, t=1.3341
+Verification done (CFP-FP): acc=85.96%, t=1.7088
+epoch 6/20:  80%|████████  | 24366/30327 [51:44<5:57:37,  3.60s/it, acc=0.0325, loss=22.7]Verification done (AgeDB-30): acc=84.53%, t=1.6932
+                                                                                          Running verification at step 178000...
+Verification done (LFW): acc=97.57%, t=1.3113
+Verification done (CFP-FP): acc=86.10%, t=1.6935
+epoch 6/20:  87%|████████▋ | 26366/30327 [55:57<3:57:06,  3.59s/it, acc=0.0325, loss=22.7]Verification done (AgeDB-30): acc=84.77%, t=1.6820
+                                                                                          Running verification at step 180000...
+Verification done (LFW): acc=97.75%, t=1.3216
+Verification done (CFP-FP): acc=86.24%, t=1.6972
+epoch 6/20:  94%|█████████▎| 28366/30327 [1:00:11<1:57:50,  3.61s/it, acc=0.0325, loss=22.7]Verification done (AgeDB-30): acc=83.92%, t=1.6541
+epoch 6/20: 100%|██████████| 30327/30327 [1:04:03<00:00,  7.89it/s, acc=0.0326, loss=22.7]  
+epoch 6/20 train_loss=22.6834 train_acc=0.032567 verif_acc=97.7500% verif_t=1.32 epoch_time=3844.0s ETA=14:56:55
+[CKPT] Saved checkpoints/epoch_6.pt and checkpoints/latest.pt
+                                                                                       Running verification at step 182000...
+Verification done (LFW): acc=97.67%, t=1.3080
+Verification done (CFP-FP): acc=85.67%, t=1.6124
+epoch 7/20:   0%|          | 39/30327 [00:21<30:31:30,  3.63s/it, acc=0.0502, loss=23]Verification done (AgeDB-30): acc=84.73%, t=1.6533
+                                                                                        Running verification at step 184000...
+Verification done (LFW): acc=97.63%, t=1.2780
+Verification done (CFP-FP): acc=86.93%, t=1.6687
+epoch 7/20:   7%|▋         | 2039/30327 [04:35<28:02:34,  3.57s/it, acc=0.0809, loss=21.7]Verification done (AgeDB-30): acc=84.55%, t=1.6513
+                                                                                          Running verification at step 186000...
+Verification done (LFW): acc=97.90%, t=1.2749
+Verification done (CFP-FP): acc=87.27%, t=1.6715
+epoch 7/20:  13%|█▎        | 4039/30327 [08:49<26:18:16,  3.60s/it, acc=0.0798, loss=21.5]Verification done (AgeDB-30): acc=84.80%, t=1.6100
+                                                                                          Running verification at step 188000...
+Verification done (LFW): acc=97.68%, t=1.2943
+Verification done (CFP-FP): acc=87.27%, t=1.6993
+epoch 7/20:  20%|█▉        | 6039/30327 [13:03<24:08:40,  3.58s/it, acc=0.0785, loss=21.5]Verification done (AgeDB-30): acc=85.30%, t=1.6558
+                                                                                          Running verification at step 190000...
+Verification done (LFW): acc=97.72%, t=1.2462
+Verification done (CFP-FP): acc=87.04%, t=1.6474
+epoch 7/20:  27%|██▋       | 8039/30327 [17:17<22:07:18,  3.57s/it, acc=0.0772, loss=21.4]Verification done (AgeDB-30): acc=84.37%, t=1.6623
+                                                                                          Running verification at step 192000...
+Verification done (LFW): acc=97.82%, t=1.2965
+Verification done (CFP-FP): acc=86.70%, t=1.6687
+epoch 7/20:  33%|███▎      | 10039/30327 [21:30<19:59:34,  3.55s/it, acc=0.0761, loss=21.4]Verification done (AgeDB-30): acc=85.65%, t=1.6849
+                                                                                           Running verification at step 194000...
+Verification done (LFW): acc=97.90%, t=1.3264
+Verification done (CFP-FP): acc=87.17%, t=1.6494
+epoch 7/20:  40%|███▉      | 12039/30327 [25:44<18:05:48,  3.56s/it, acc=0.0748, loss=21.4]Verification done (AgeDB-30): acc=84.85%, t=1.6433
+                                                                                           Running verification at step 196000...
+Verification done (LFW): acc=97.82%, t=1.2701
+Verification done (CFP-FP): acc=87.10%, t=1.6846
+epoch 7/20:  46%|████▋     | 14039/30327 [29:58<16:11:44,  3.58s/it, acc=0.0737, loss=21.4]Verification done (AgeDB-30): acc=84.92%, t=1.6996
+                                                                                           Running verification at step 198000...
+Verification done (LFW): acc=97.80%, t=1.2705
+Verification done (CFP-FP): acc=87.07%, t=1.6794
+epoch 7/20:  53%|█████▎    | 16039/30327 [34:11<14:08:32,  3.56s/it, acc=0.0728, loss=21.4]Verification done (AgeDB-30): acc=85.30%, t=1.6140
+                                                                                           Running verification at step 200000...
+Verification done (LFW): acc=98.10%, t=1.2623
+Verification done (CFP-FP): acc=87.21%, t=1.6399
+epoch 7/20:  59%|█████▉    | 18039/30327 [38:25<12:12:59,  3.58s/it, acc=0.0719, loss=21.4]Verification done (AgeDB-30): acc=85.03%, t=1.6819
+                                                                                           Running verification at step 202000...
+Verification done (LFW): acc=98.00%, t=1.3157
+Verification done (CFP-FP): acc=87.46%, t=1.6377
+epoch 7/20:  66%|██████▌   | 20039/30327 [42:39<10:10:24,  3.56s/it, acc=0.0711, loss=21.4]Verification done (AgeDB-30): acc=85.12%, t=1.6394
+                                                                                           Running verification at step 204000...
+Verification done (LFW): acc=97.82%, t=1.2762
+Verification done (CFP-FP): acc=87.04%, t=1.6478
+epoch 7/20:  73%|███████▎  | 22039/30327 [46:53<8:09:48,  3.55s/it, acc=0.0704, loss=21.4] Verification done (AgeDB-30): acc=84.62%, t=1.6744
+                                                                                          Running verification at step 206000...
+Verification done (LFW): acc=97.83%, t=1.2840
+Verification done (CFP-FP): acc=86.91%, t=1.6585
+epoch 7/20:  79%|███████▉  | 24039/30327 [51:06<6:10:55,  3.54s/it, acc=0.0697, loss=21.4]Verification done (AgeDB-30): acc=85.33%, t=1.6348
+                                                                                          Running verification at step 208000...
+Verification done (LFW): acc=97.85%, t=1.2616
+Verification done (CFP-FP): acc=87.20%, t=1.6689
+epoch 7/20:  86%|████████▌ | 26039/30327 [55:20<4:14:35,  3.56s/it, acc=0.069, loss=21.4]Verification done (AgeDB-30): acc=85.32%, t=1.6668
+                                                                                         Running verification at step 210000...
+Verification done (LFW): acc=97.95%, t=1.2767
+Verification done (CFP-FP): acc=87.03%, t=1.6791
+epoch 7/20:  92%|█████████▏| 28039/30327 [59:33<2:14:30,  3.53s/it, acc=0.0683, loss=21.4]Verification done (AgeDB-30): acc=85.52%, t=1.6472
+                                                                                          Running verification at step 212000...
+Verification done (LFW): acc=97.83%, t=1.3204
+Verification done (CFP-FP): acc=87.20%, t=1.7102
+epoch 7/20:  99%|█████████▉| 30039/30327 [1:03:47<16:58,  3.54s/it, acc=0.0677, loss=21.4]Verification done (AgeDB-30): acc=85.17%, t=1.6584
+epoch 7/20: 100%|██████████| 30327/30327 [1:04:21<00:00,  7.85it/s, acc=0.0676, loss=21.4]
+epoch 7/20 train_loss=21.4114 train_acc=0.067573 verif_acc=97.8333% verif_t=1.32 epoch_time=3861.8s ETA=13:56:43
+[CKPT] Saved checkpoints/epoch_7.pt and checkpoints/latest.pt
+                                                                                       Running verification at step 214000...
+Verification done (LFW): acc=97.80%, t=1.3252
+Verification done (CFP-FP): acc=87.01%, t=1.6705
+epoch 8/20:   6%|▌         | 1712/30327 [03:39<28:28:36,  3.58s/it, acc=0.0601, loss=21.4]Verification done (AgeDB-30): acc=85.33%, t=1.6788
+                                                                                          Running verification at step 216000...
+Verification done (LFW): acc=97.92%, t=1.3009
+Verification done (CFP-FP): acc=87.07%, t=1.6548
+epoch 8/20:  12%|█▏        | 3712/30327 [07:53<26:32:30,  3.59s/it, acc=0.0592, loss=21.5]Verification done (AgeDB-30): acc=85.10%, t=1.6783
+                                                                                          Running verification at step 218000...
+Verification done (LFW): acc=97.75%, t=1.2898
+Verification done (CFP-FP): acc=87.41%, t=1.6635
+epoch 8/20:  19%|█▉        | 5712/30327 [12:07<24:19:59,  3.56s/it, acc=0.0584, loss=21.5]Verification done (AgeDB-30): acc=85.35%, t=1.6720
+                                                                                          Running verification at step 220000...
+Verification done (LFW): acc=97.92%, t=1.3063
+Verification done (CFP-FP): acc=87.17%, t=1.6430
+epoch 8/20:  25%|██▌       | 7712/30327 [16:20<22:20:37,  3.56s/it, acc=0.0579, loss=21.5]Verification done (AgeDB-30): acc=85.00%, t=1.6417
+                                                                                          Running verification at step 222000...
+Verification done (LFW): acc=97.65%, t=1.3235
+Verification done (CFP-FP): acc=86.70%, t=1.6243
+epoch 8/20:  32%|███▏      | 9712/30327 [20:34<20:24:29,  3.56s/it, acc=0.0575, loss=21.5]Verification done (AgeDB-30): acc=84.92%, t=1.6909
+                                                                                          Running verification at step 224000...
+Verification done (LFW): acc=97.90%, t=1.2824
+Verification done (CFP-FP): acc=86.96%, t=1.6798
+epoch 8/20:  39%|███▊      | 11712/30327 [24:47<18:21:08,  3.55s/it, acc=0.057, loss=21.5]Verification done (AgeDB-30): acc=85.22%, t=1.6372
+                                                                                          Running verification at step 226000...
+Verification done (LFW): acc=98.03%, t=1.2906
+Verification done (CFP-FP): acc=87.23%, t=1.6605
+epoch 8/20:  45%|████▌     | 13712/30327 [29:01<16:29:25,  3.57s/it, acc=0.0566, loss=21.5]Verification done (AgeDB-30): acc=85.07%, t=1.6632
+                                                                                           Running verification at step 228000...
+Verification done (LFW): acc=97.52%, t=1.3149
+Verification done (CFP-FP): acc=87.40%, t=1.6451
+epoch 8/20:  52%|█████▏    | 15712/30327 [33:14<14:24:37,  3.55s/it, acc=0.0562, loss=21.5]Verification done (AgeDB-30): acc=85.17%, t=1.6856
+                                                                                           Running verification at step 230000...
+Verification done (LFW): acc=97.63%, t=1.3274
+Verification done (CFP-FP): acc=86.67%, t=1.7153
+epoch 8/20:  58%|█████▊    | 17712/30327 [37:28<12:27:43,  3.56s/it, acc=0.0559, loss=21.5]Verification done (AgeDB-30): acc=85.25%, t=1.6345
+                                                                                           Running verification at step 232000...
+Verification done (LFW): acc=98.00%, t=1.3236
+Verification done (CFP-FP): acc=86.94%, t=1.6806
+epoch 8/20:  65%|██████▍   | 19712/30327 [41:41<10:27:25,  3.55s/it, acc=0.0555, loss=21.5]Verification done (AgeDB-30): acc=85.18%, t=1.6567
+                                                                                           Running verification at step 234000...
+Verification done (LFW): acc=97.78%, t=1.2980
+Verification done (CFP-FP): acc=86.79%, t=1.6957
+epoch 8/20:  72%|███████▏  | 21712/30327 [45:55<8:32:13,  3.57s/it, acc=0.0552, loss=21.5] Verification done (AgeDB-30): acc=84.58%, t=1.7064
+                                                                                          Running verification at step 236000...
+Verification done (LFW): acc=97.90%, t=1.2373
+Verification done (CFP-FP): acc=87.16%, t=1.6418
+epoch 8/20:  78%|███████▊  | 23712/30327 [50:08<6:31:33,  3.55s/it, acc=0.0549, loss=21.5]Verification done (AgeDB-30): acc=84.87%, t=1.7229
+                                                                                          Running verification at step 238000...
+Verification done (LFW): acc=97.85%, t=1.3238
+Verification done (CFP-FP): acc=86.99%, t=1.6973
+epoch 8/20:  85%|████████▍ | 25712/30327 [54:22<4:33:38,  3.56s/it, acc=0.0546, loss=21.5]Verification done (AgeDB-30): acc=84.75%, t=1.6593
+                                                                                          Running verification at step 240000...
+Verification done (LFW): acc=97.60%, t=1.2623
+Verification done (CFP-FP): acc=87.70%, t=1.6510
+epoch 8/20:  91%|█████████▏| 27712/30327 [58:36<2:36:51,  3.60s/it, acc=0.0543, loss=21.5]Verification done (AgeDB-30): acc=85.15%, t=1.6842
+                                                                                          Running verification at step 242000...
+Verification done (LFW): acc=97.65%, t=1.2809
+Verification done (CFP-FP): acc=87.33%, t=1.6758
+epoch 8/20:  98%|█████████▊| 29712/30327 [1:02:49<36:32,  3.56s/it, acc=0.0541, loss=21.5]Verification done (AgeDB-30): acc=85.05%, t=1.6659
+epoch 8/20: 100%|██████████| 30327/30327 [1:04:02<00:00,  7.89it/s, acc=0.054, loss=21.5] 
+epoch 8/20 train_loss=21.5332 train_acc=0.054002 verif_acc=97.6500% verif_t=1.28 epoch_time=3842.8s ETA=12:48:33
+[CKPT] Saved checkpoints/epoch_8.pt and checkpoints/latest.pt
+                                                                                       Running verification at step 244000...
+Verification done (LFW): acc=97.87%, t=1.3114
+Verification done (CFP-FP): acc=87.56%, t=1.6377
+epoch 9/20:   5%|▍         | 1385/30327 [03:00<28:20:20,  3.53s/it, acc=0.0519, loss=21.6]Verification done (AgeDB-30): acc=84.87%, t=1.6264
+                                                                                          Running verification at step 246000...
+Verification done (LFW): acc=97.85%, t=1.2330
+Verification done (CFP-FP): acc=87.21%, t=1.6630
+epoch 9/20:  11%|█         | 3385/30327 [07:14<26:31:11,  3.54s/it, acc=0.0512, loss=21.6]Verification done (AgeDB-30): acc=85.70%, t=1.6457
+                                                                                          Running verification at step 248000...
+Verification done (LFW): acc=97.82%, t=1.2908
+Verification done (CFP-FP): acc=87.19%, t=1.6674
+epoch 9/20:  18%|█▊        | 5385/30327 [11:27<24:39:08,  3.56s/it, acc=0.0508, loss=21.6]Verification done (AgeDB-30): acc=84.98%, t=1.6687
+                                                                                          Running verification at step 250000...
+Verification done (LFW): acc=98.02%, t=1.2838
+Verification done (CFP-FP): acc=87.11%, t=1.6585
+epoch 9/20:  24%|██▍       | 7385/30327 [15:41<22:42:59,  3.56s/it, acc=0.0504, loss=21.6]Verification done (AgeDB-30): acc=84.98%, t=1.7277
+                                                                                          Running verification at step 252000...
+Verification done (LFW): acc=97.93%, t=1.2905
+Verification done (CFP-FP): acc=87.27%, t=1.6649
+epoch 9/20:  31%|███       | 9385/30327 [19:54<20:48:06,  3.58s/it, acc=0.0501, loss=21.6]Verification done (AgeDB-30): acc=85.20%, t=1.6934
+                                                                                          Running verification at step 254000...
+Verification done (LFW): acc=97.98%, t=1.3173
+Verification done (CFP-FP): acc=86.93%, t=1.6656
+epoch 9/20:  38%|███▊      | 11385/30327 [24:08<18:36:47,  3.54s/it, acc=0.05, loss=21.6]Verification done (AgeDB-30): acc=85.13%, t=1.6552
+                                                                                          Running verification at step 256000...
+Verification done (LFW): acc=98.02%, t=1.3372
+Verification done (CFP-FP): acc=87.57%, t=1.6509
+epoch 9/20:  44%|████▍     | 13385/30327 [28:21<16:38:06,  3.53s/it, acc=0.0497, loss=21.6]Verification done (AgeDB-30): acc=84.87%, t=1.6902
+                                                                                           Running verification at step 258000...
+Verification done (LFW): acc=97.85%, t=1.2670
+Verification done (CFP-FP): acc=86.90%, t=1.6287
+epoch 9/20:  51%|█████     | 15385/30327 [32:35<14:45:52,  3.56s/it, acc=0.0496, loss=21.6]Verification done (AgeDB-30): acc=85.18%, t=1.6668
+                                                                                           Running verification at step 260000...
+Verification done (LFW): acc=97.93%, t=1.3110
+Verification done (CFP-FP): acc=87.39%, t=1.6490
+epoch 9/20:  57%|█████▋    | 17385/30327 [36:48<12:48:02,  3.56s/it, acc=0.0493, loss=21.6]Verification done (AgeDB-30): acc=85.03%, t=1.6614
+                                                                                           Running verification at step 262000...
+Verification done (LFW): acc=97.83%, t=1.3665
+Verification done (CFP-FP): acc=87.46%, t=1.6522
+epoch 9/20:  64%|██████▍   | 19385/30327 [41:02<10:46:15,  3.54s/it, acc=0.0491, loss=21.6]Verification done (AgeDB-30): acc=85.00%, t=1.6701
+                                                                                           Running verification at step 264000...
+Verification done (LFW): acc=97.87%, t=1.2682
+Verification done (CFP-FP): acc=87.06%, t=1.6504
+epoch 9/20:  71%|███████   | 21385/30327 [45:15<8:51:52,  3.57s/it, acc=0.049, loss=21.6] Verification done (AgeDB-30): acc=85.30%, t=1.6918
+                                                                                         Running verification at step 266000...
+Verification done (LFW): acc=97.73%, t=1.2986
+Verification done (CFP-FP): acc=86.99%, t=1.6689
+epoch 9/20:  77%|███████▋  | 23385/30327 [49:29<6:51:42,  3.56s/it, acc=0.0488, loss=21.6]Verification done (AgeDB-30): acc=85.13%, t=1.7115
+                                                                                          Running verification at step 268000...
+Verification done (LFW): acc=97.80%, t=1.2907
+Verification done (CFP-FP): acc=86.81%, t=1.6803
+epoch 9/20:  84%|████████▎ | 25385/30327 [53:42<4:52:15,  3.55s/it, acc=0.0486, loss=21.6]Verification done (AgeDB-30): acc=84.52%, t=1.6851
+                                                                                          Running verification at step 270000...
+Verification done (LFW): acc=97.73%, t=1.2840
+Verification done (CFP-FP): acc=87.21%, t=1.6790
+epoch 9/20:  90%|█████████ | 27385/30327 [57:56<2:53:52,  3.55s/it, acc=0.0485, loss=21.6]Verification done (AgeDB-30): acc=84.68%, t=1.6605
+                                                                                          Running verification at step 272000...
+Verification done (LFW): acc=97.97%, t=1.3052
+Verification done (CFP-FP): acc=86.81%, t=1.6751
+epoch 9/20:  97%|█████████▋| 29385/30327 [1:02:09<55:34,  3.54s/it, acc=0.0484, loss=21.6]  Verification done (AgeDB-30): acc=85.15%, t=1.6712
+epoch 9/20: 100%|██████████| 30327/30327 [1:04:01<00:00,  7.90it/s, acc=0.0483, loss=21.6]
+epoch 9/20 train_loss=21.6429 train_acc=0.048275 verif_acc=97.9667% verif_t=1.31 epoch_time=3841.1s ETA=11:44:12
+[CKPT] Saved checkpoints/epoch_9.pt and checkpoints/latest.pt
+                                                                                        Running verification at step 274000...
+Verification done (LFW): acc=97.90%, t=1.2907
+Verification done (CFP-FP): acc=87.14%, t=1.6904
+epoch 10/20:   3%|▎         | 1058/30327 [02:22<29:11:26,  3.59s/it, acc=0.0469, loss=21.7]Verification done (AgeDB-30): acc=85.38%, t=1.6791
+                                                                                           Running verification at step 276000...
+Verification done (LFW): acc=97.77%, t=1.2880
+Verification done (CFP-FP): acc=87.04%, t=1.6866
+epoch 10/20:  10%|█         | 3058/30327 [06:35<26:55:30,  3.55s/it, acc=0.0471, loss=21.7]Verification done (AgeDB-30): acc=85.35%, t=1.6777
+                                                                                           Running verification at step 278000...
+Verification done (LFW): acc=97.50%, t=1.2555
+Verification done (CFP-FP): acc=86.67%, t=1.6813
+epoch 10/20:  17%|█▋        | 5058/30327 [10:49<24:56:56,  3.55s/it, acc=0.0467, loss=21.7]Verification done (AgeDB-30): acc=85.12%, t=1.7056
+                                                                                           Running verification at step 280000...
+Verification done (LFW): acc=97.85%, t=1.2880
+Verification done (CFP-FP): acc=87.00%, t=1.6910
+epoch 10/20:  23%|██▎       | 7058/30327 [15:02<22:50:12,  3.53s/it, acc=0.0468, loss=21.7]Verification done (AgeDB-30): acc=84.83%, t=1.6794
+                                                                                           Running verification at step 282000...
+Verification done (LFW): acc=97.80%, t=1.2953
+Verification done (CFP-FP): acc=87.49%, t=1.6667
+epoch 10/20:  30%|██▉       | 9058/30327 [19:15<20:57:41,  3.55s/it, acc=0.0466, loss=21.7]Verification done (AgeDB-30): acc=84.77%, t=1.6970
+                                                                                           Running verification at step 284000...
+Verification done (LFW): acc=97.90%, t=1.3239
+Verification done (CFP-FP): acc=87.27%, t=1.6229
+epoch 10/20:  36%|███▋      | 11058/30327 [23:29<18:51:23,  3.52s/it, acc=0.0464, loss=21.7]Verification done (AgeDB-30): acc=85.08%, t=1.6743
+                                                                                            Running verification at step 286000...
+Verification done (LFW): acc=97.95%, t=1.3298
+Verification done (CFP-FP): acc=87.10%, t=1.6666
+epoch 10/20:  43%|████▎     | 13058/30327 [27:42<16:56:06,  3.53s/it, acc=0.0464, loss=21.7]Verification done (AgeDB-30): acc=84.88%, t=1.6863
+                                                                                            Running verification at step 288000...
+Verification done (LFW): acc=97.90%, t=1.2857
+Verification done (CFP-FP): acc=87.04%, t=1.6758
+epoch 10/20:  50%|████▉     | 15058/30327 [31:55<14:57:18,  3.53s/it, acc=0.0463, loss=21.7]Verification done (AgeDB-30): acc=85.28%, t=1.6609
+                                                                                            Running verification at step 290000...
+Verification done (LFW): acc=97.70%, t=1.2704
+Verification done (CFP-FP): acc=87.13%, t=1.6368
+epoch 10/20:  56%|█████▌    | 17058/30327 [36:08<12:59:45,  3.53s/it, acc=0.0463, loss=21.7]Verification done (AgeDB-30): acc=85.00%, t=1.6894
+                                                                                            Running verification at step 292000...
+Verification done (LFW): acc=97.72%, t=1.2910
+Verification done (CFP-FP): acc=87.30%, t=1.6418
+epoch 10/20:  63%|██████▎   | 19058/30327 [40:22<10:59:36,  3.51s/it, acc=0.0462, loss=21.7]Verification done (AgeDB-30): acc=84.58%, t=1.6737
+                                                                                            Running verification at step 294000...
+Verification done (LFW): acc=97.80%, t=1.3042
+Verification done (CFP-FP): acc=86.66%, t=1.6970
+epoch 10/20:  69%|██████▉   | 21058/30327 [44:35<9:06:42,  3.54s/it, acc=0.0461, loss=21.7] Verification done (AgeDB-30): acc=85.53%, t=1.6416
+                                                                                           Running verification at step 296000...
+Verification done (LFW): acc=98.08%, t=1.2864
+Verification done (CFP-FP): acc=87.31%, t=1.6425
+epoch 10/20:  76%|███████▌  | 23058/30327 [48:49<7:15:57,  3.60s/it, acc=0.046, loss=21.7] Verification done (AgeDB-30): acc=85.17%, t=1.6736
+                                                                                          Running verification at step 298000...
+Verification done (LFW): acc=97.98%, t=1.3280
+Verification done (CFP-FP): acc=87.04%, t=1.6369
+epoch 10/20:  83%|████████▎ | 25058/30327 [53:02<5:15:52,  3.60s/it, acc=0.046, loss=21.7]Verification done (AgeDB-30): acc=84.38%, t=1.6970
+                                                                                          Running verification at step 300000...
+Verification done (LFW): acc=97.83%, t=1.2903
+Verification done (CFP-FP): acc=87.37%, t=1.6892
+epoch 10/20:  89%|████████▉ | 27058/30327 [57:16<3:16:28,  3.61s/it, acc=0.046, loss=21.7]Verification done (AgeDB-30): acc=85.37%, t=1.6738
+                                                                                           Running verification at step 302000...
+Verification done (LFW): acc=97.92%, t=1.2817
+Verification done (CFP-FP): acc=87.01%, t=1.6714
+epoch 10/20:  96%|█████████▌| 29058/30327 [1:01:30<1:14:53,  3.54s/it, acc=0.0459, loss=21.7]Verification done (AgeDB-30): acc=84.98%, t=1.7066
+epoch 10/20: 100%|██████████| 30327/30327 [1:04:00<00:00,  7.90it/s, acc=0.0459, loss=21.7]  
+epoch 10/20 train_loss=21.7002 train_acc=0.045857 verif_acc=97.9167% verif_t=1.28 epoch_time=3840.7s ETA=10:40:06
+[CKPT] Saved checkpoints/epoch_10.pt and checkpoints/latest.pt
+                                                                                        Running verification at step 304000...
+Verification done (LFW): acc=97.65%, t=1.3012
+Verification done (CFP-FP): acc=87.03%, t=1.6394
+epoch 11/20:   2%|▏         | 731/30327 [01:43<29:18:22,  3.56s/it, acc=0.165, loss=21.3]Verification done (AgeDB-30): acc=84.98%, t=1.6927
+                                                                                         Running verification at step 306000...
+Verification done (LFW): acc=97.97%, t=1.2859
+Verification done (CFP-FP): acc=87.29%, t=1.6575
+epoch 11/20:   9%|▉         | 2731/30327 [05:57<27:38:41,  3.61s/it, acc=0.182, loss=21.2]Verification done (AgeDB-30): acc=85.40%, t=1.6490
+                                                                                          Running verification at step 308000...
+Verification done (LFW): acc=97.80%, t=1.2619
+Verification done (CFP-FP): acc=87.67%, t=1.6635
+epoch 11/20:  16%|█▌        | 4731/30327 [10:11<25:13:06,  3.55s/it, acc=0.185, loss=21.1]Verification done (AgeDB-30): acc=85.18%, t=1.6380
+                                                                                          Running verification at step 310000...
+Verification done (LFW): acc=97.83%, t=1.2826
+Verification done (CFP-FP): acc=87.34%, t=1.6655
+epoch 11/20:  22%|██▏       | 6731/30327 [14:25<23:14:22,  3.55s/it, acc=0.186, loss=21.1]Verification done (AgeDB-30): acc=85.27%, t=1.6372
+                                                                                          Running verification at step 312000...
+Verification done (LFW): acc=97.75%, t=1.2491
+Verification done (CFP-FP): acc=87.66%, t=1.6396
+epoch 11/20:  29%|██▉       | 8731/30327 [18:39<21:24:16,  3.57s/it, acc=0.186, loss=21.1]Verification done (AgeDB-30): acc=85.17%, t=1.6529
+                                                                                          Running verification at step 314000...
+Verification done (LFW): acc=97.85%, t=1.2603
+Verification done (CFP-FP): acc=87.66%, t=1.6512
+epoch 11/20:  35%|███▌      | 10731/30327 [22:53<19:21:37,  3.56s/it, acc=0.186, loss=21.1]Verification done (AgeDB-30): acc=85.65%, t=1.6913
+                                                                                           Running verification at step 316000...
+Verification done (LFW): acc=97.70%, t=1.2231
+Verification done (CFP-FP): acc=87.66%, t=1.6552
+epoch 11/20:  42%|████▏     | 12731/30327 [27:07<17:36:52,  3.60s/it, acc=0.185, loss=21.1]Verification done (AgeDB-30): acc=85.62%, t=1.6825
+                                                                                           Running verification at step 318000...
+Verification done (LFW): acc=97.77%, t=1.2709
+Verification done (CFP-FP): acc=87.53%, t=1.6445
+epoch 11/20:  49%|████▊     | 14731/30327 [31:21<15:24:52,  3.56s/it, acc=0.185, loss=21]Verification done (AgeDB-30): acc=85.08%, t=1.6310
+                                                                                         Running verification at step 320000...
+Verification done (LFW): acc=98.05%, t=1.1870
+Verification done (CFP-FP): acc=87.41%, t=1.6207
+epoch 11/20:  55%|█████▌    | 16731/30327 [35:35<13:28:51,  3.57s/it, acc=0.184, loss=21]Verification done (AgeDB-30): acc=85.40%, t=1.6753
+                                                                                         Running verification at step 322000...
+Verification done (LFW): acc=97.83%, t=1.2101
+Verification done (CFP-FP): acc=87.74%, t=1.6221
+epoch 11/20:  62%|██████▏   | 18731/30327 [39:49<11:30:33,  3.57s/it, acc=0.184, loss=21]Verification done (AgeDB-30): acc=85.18%, t=1.6246
+                                                                                         Running verification at step 324000...
+Verification done (LFW): acc=97.83%, t=1.2847
+Verification done (CFP-FP): acc=87.50%, t=1.6437
+epoch 11/20:  68%|██████▊   | 20731/30327 [44:03<9:38:47,  3.62s/it, acc=0.183, loss=21] Verification done (AgeDB-30): acc=85.15%, t=1.6397
+                                                                                        Running verification at step 326000...
+Verification done (LFW): acc=97.72%, t=1.3065
+Verification done (CFP-FP): acc=87.66%, t=1.6502
+epoch 11/20:  75%|███████▍  | 22731/30327 [48:17<7:35:11,  3.60s/it, acc=0.182, loss=21] Verification done (AgeDB-30): acc=85.45%, t=1.6677
+                                                                                        Running verification at step 328000...
+Verification done (LFW): acc=97.92%, t=1.2541
+Verification done (CFP-FP): acc=87.19%, t=1.6423
+epoch 11/20:  82%|████████▏ | 24731/30327 [52:32<5:36:43,  3.61s/it, acc=0.181, loss=21]Verification done (AgeDB-30): acc=85.63%, t=1.6381
+                                                                                        Running verification at step 330000...
+Verification done (LFW): acc=97.90%, t=1.2225
+Verification done (CFP-FP): acc=87.59%, t=1.6471
+epoch 11/20:  88%|████████▊ | 26731/30327 [56:46<3:36:30,  3.61s/it, acc=0.181, loss=21]Verification done (AgeDB-30): acc=85.67%, t=1.6504
+                                                                                        Running verification at step 332000...
+Verification done (LFW): acc=97.98%, t=1.2551
+Verification done (CFP-FP): acc=87.47%, t=1.6558
+epoch 11/20:  95%|█████████▍| 28731/30327 [1:01:00<1:35:18,  3.58s/it, acc=0.18, loss=21]Verification done (AgeDB-30): acc=85.60%, t=1.6908
+epoch 11/20: 100%|██████████| 30327/30327 [1:04:10<00:00,  7.88it/s, acc=0.18, loss=21]  
+epoch 11/20 train_loss=21.0100 train_acc=0.179614 verif_acc=97.9833% verif_t=1.26 epoch_time=3850.0s ETA=09:37:30
+[CKPT] Saved checkpoints/epoch_11.pt and checkpoints/latest.pt
+                                                                                       Running verification at step 334000...
+Verification done (LFW): acc=97.83%, t=1.2724
+Verification done (CFP-FP): acc=87.77%, t=1.6220
+epoch 12/20:   1%|▏         | 404/30327 [01:04<29:24:08,  3.54s/it, acc=0.175, loss=21]Verification done (AgeDB-30): acc=85.23%, t=1.6711
+                                                                                       Running verification at step 336000...
+Verification done (LFW): acc=97.92%, t=1.2157
+Verification done (CFP-FP): acc=87.79%, t=1.6423
+epoch 12/20:   8%|▊         | 2404/30327 [05:18<27:37:29,  3.56s/it, acc=0.173, loss=21]Verification done (AgeDB-30): acc=85.27%, t=1.6633
+                                                                                        Running verification at step 338000...
+Verification done (LFW): acc=97.73%, t=1.2133
+Verification done (CFP-FP): acc=87.64%, t=1.6567
+epoch 12/20:  15%|█▍        | 4404/30327 [09:32<25:41:52,  3.57s/it, acc=0.172, loss=21]Verification done (AgeDB-30): acc=85.33%, t=1.6743
+                                                                                        Running verification at step 340000...
+Verification done (LFW): acc=97.83%, t=1.3017
+Verification done (CFP-FP): acc=87.24%, t=1.6437
+epoch 12/20:  21%|██        | 6404/30327 [13:46<23:44:31,  3.57s/it, acc=0.171, loss=21]Verification done (AgeDB-30): acc=85.20%, t=1.6457
+                                                                                        Running verification at step 342000...
+Verification done (LFW): acc=97.70%, t=1.2474
+Verification done (CFP-FP): acc=87.54%, t=1.6669
+epoch 12/20:  28%|██▊       | 8404/30327 [18:00<21:53:25,  3.59s/it, acc=0.17, loss=21]Verification done (AgeDB-30): acc=85.52%, t=1.6501
+                                                                                       Running verification at step 344000...
+Verification done (LFW): acc=97.80%, t=1.2548
+Verification done (CFP-FP): acc=87.41%, t=1.6514
+epoch 12/20:  34%|███▍      | 10404/30327 [22:14<19:47:29,  3.58s/it, acc=0.169, loss=21]Verification done (AgeDB-30): acc=85.18%, t=1.6681
+                                                                                         Running verification at step 346000...
+Verification done (LFW): acc=97.82%, t=1.2842
+Verification done (CFP-FP): acc=87.41%, t=1.6353
+epoch 12/20:  41%|████      | 12404/30327 [26:28<18:02:53,  3.63s/it, acc=0.168, loss=21]Verification done (AgeDB-30): acc=85.15%, t=1.6942
+                                                                                         Running verification at step 348000...
+Verification done (LFW): acc=97.90%, t=1.2149
+Verification done (CFP-FP): acc=87.63%, t=1.6419
+epoch 12/20:  47%|████▋     | 14404/30327 [30:42<15:58:05,  3.61s/it, acc=0.167, loss=21]Verification done (AgeDB-30): acc=85.32%, t=1.6543
+                                                                                         Running verification at step 350000...
+Verification done (LFW): acc=97.95%, t=1.2138
+Verification done (CFP-FP): acc=87.50%, t=1.6452
+epoch 12/20:  54%|█████▍    | 16404/30327 [34:56<13:58:45,  3.61s/it, acc=0.166, loss=21]Verification done (AgeDB-30): acc=85.47%, t=1.6498
+                                                                                         Running verification at step 352000...
+Verification done (LFW): acc=97.93%, t=1.2215
+Verification done (CFP-FP): acc=87.53%, t=1.6855
+epoch 12/20:  61%|██████    | 18404/30327 [39:10<11:56:26,  3.61s/it, acc=0.165, loss=21]Verification done (AgeDB-30): acc=85.77%, t=1.6856
+                                                                                         Running verification at step 354000...
+Verification done (LFW): acc=97.85%, t=1.2495
+Verification done (CFP-FP): acc=87.50%, t=1.6633
+epoch 12/20:  67%|██████▋   | 20404/30327 [43:24<9:56:13,  3.61s/it, acc=0.164, loss=21] Verification done (AgeDB-30): acc=85.05%, t=1.6562
+                                                                                        Running verification at step 356000...
+Verification done (LFW): acc=97.67%, t=1.2521
+Verification done (CFP-FP): acc=87.37%, t=1.6447
+epoch 12/20:  74%|███████▍  | 22404/30327 [47:39<7:54:49,  3.60s/it, acc=0.163, loss=21] Verification done (AgeDB-30): acc=84.98%, t=1.6389
+                                                                                        Running verification at step 358000...
+Verification done (LFW): acc=97.90%, t=1.2795
+Verification done (CFP-FP): acc=87.24%, t=1.6424
+epoch 12/20:  80%|████████  | 24404/30327 [51:53<5:57:58,  3.63s/it, acc=0.163, loss=21]Verification done (AgeDB-30): acc=85.42%, t=1.6404
+                                                                                        Running verification at step 360000...
+Verification done (LFW): acc=98.02%, t=1.2123
+Verification done (CFP-FP): acc=87.40%, t=1.6282
+epoch 12/20:  87%|████████▋ | 26404/30327 [56:07<3:55:52,  3.61s/it, acc=0.162, loss=21]Verification done (AgeDB-30): acc=85.17%, t=1.6377
+                                                                                        Running verification at step 362000...
+Verification done (LFW): acc=97.70%, t=1.2898
+Verification done (CFP-FP): acc=87.89%, t=1.6484
+epoch 12/20:  94%|█████████▎| 28404/30327 [1:00:21<1:55:15,  3.60s/it, acc=0.161, loss=21]Verification done (AgeDB-30): acc=85.72%, t=1.6537
+epoch 12/20: 100%|██████████| 30327/30327 [1:04:09<00:00,  7.88it/s, acc=0.161, loss=21]  
+epoch 12/20 train_loss=20.9996 train_acc=0.160720 verif_acc=97.7000% verif_t=1.29 epoch_time=3849.7s ETA=08:33:17
+[CKPT] Saved checkpoints/epoch_12.pt and checkpoints/latest.pt
+                                                                                       Running verification at step 364000...
+Verification done (LFW): acc=97.93%, t=1.2361
+Verification done (CFP-FP): acc=87.37%, t=1.6608
+epoch 13/20:   0%|          | 77/30327 [00:25<29:58:38,  3.57s/it, acc=0.15, loss=21.2]Verification done (AgeDB-30): acc=85.77%, t=1.6325
+                                                                                        Running verification at step 366000...
+Verification done (LFW): acc=97.95%, t=1.2181
+Verification done (CFP-FP): acc=87.51%, t=1.6322
+epoch 13/20:   7%|▋         | 2077/30327 [04:39<28:10:43,  3.59s/it, acc=0.154, loss=21]Verification done (AgeDB-30): acc=85.07%, t=1.6727
+                                                                                        Running verification at step 368000...
+Verification done (LFW): acc=97.68%, t=1.2684
+Verification done (CFP-FP): acc=87.11%, t=1.6224
+epoch 13/20:  13%|█▎        | 4077/30327 [08:54<26:15:47,  3.60s/it, acc=0.152, loss=21]Verification done (AgeDB-30): acc=85.50%, t=1.6592
+                                                                                        Running verification at step 370000...
+Verification done (LFW): acc=97.77%, t=1.3006
+Verification done (CFP-FP): acc=87.66%, t=1.6493
+epoch 13/20:  20%|██        | 6077/30327 [13:08<24:24:56,  3.62s/it, acc=0.151, loss=21]Verification done (AgeDB-30): acc=85.55%, t=1.6563
+                                                                                        Running verification at step 372000...
+Verification done (LFW): acc=97.78%, t=1.2071
+Verification done (CFP-FP): acc=87.34%, t=1.6532
+epoch 13/20:  27%|██▋       | 8077/30327 [17:22<22:20:02,  3.61s/it, acc=0.151, loss=21]Verification done (AgeDB-30): acc=85.55%, t=1.6564
+                                                                                        Running verification at step 374000...
+Verification done (LFW): acc=98.10%, t=1.2669
+Verification done (CFP-FP): acc=87.40%, t=1.6182
+epoch 13/20:  33%|███▎      | 10077/30327 [21:36<20:17:44,  3.61s/it, acc=0.15, loss=21]Verification done (AgeDB-30): acc=85.60%, t=1.6471
+                                                                                        Running verification at step 376000...
+Verification done (LFW): acc=97.93%, t=1.2845
+Verification done (CFP-FP): acc=87.31%, t=1.6370
+epoch 13/20:  40%|███▉      | 12077/30327 [25:50<18:18:50,  3.61s/it, acc=0.149, loss=21]Verification done (AgeDB-30): acc=85.00%, t=1.6712
+                                                                                         Running verification at step 378000...
+Verification done (LFW): acc=97.87%, t=1.2668
+Verification done (CFP-FP): acc=87.26%, t=1.6074
+epoch 13/20:  46%|████▋     | 14077/30327 [30:04<16:18:53,  3.61s/it, acc=0.148, loss=21]Verification done (AgeDB-30): acc=85.23%, t=1.6565
+                                                                                         Running verification at step 380000...
+Verification done (LFW): acc=97.72%, t=1.2476
+Verification done (CFP-FP): acc=87.50%, t=1.6684
+epoch 13/20:  53%|█████▎    | 16077/30327 [34:19<14:22:02,  3.63s/it, acc=0.148, loss=21]Verification done (AgeDB-30): acc=85.47%, t=1.6564
+                                                                                         Running verification at step 382000...
+Verification done (LFW): acc=97.65%, t=1.2569
+Verification done (CFP-FP): acc=87.46%, t=1.6538
+epoch 13/20:  60%|█████▉    | 18077/30327 [38:33<12:09:26,  3.57s/it, acc=0.147, loss=21]Verification done (AgeDB-30): acc=85.42%, t=1.6683
+                                                                                         Running verification at step 384000...
+Verification done (LFW): acc=97.73%, t=1.2219
+Verification done (CFP-FP): acc=87.21%, t=1.6788
+epoch 13/20:  66%|██████▌   | 20077/30327 [42:47<10:21:13,  3.64s/it, acc=0.146, loss=21]Verification done (AgeDB-30): acc=85.40%, t=1.6595
+                                                                                         Running verification at step 386000...
+Verification done (LFW): acc=97.85%, t=1.2955
+Verification done (CFP-FP): acc=87.09%, t=1.6449
+epoch 13/20:  73%|███████▎  | 22077/30327 [47:01<8:15:38,  3.60s/it, acc=0.145, loss=21] Verification done (AgeDB-30): acc=85.32%, t=1.6632
+                                                                                        Running verification at step 388000...
+Verification done (LFW): acc=97.90%, t=1.2517
+Verification done (CFP-FP): acc=87.49%, t=1.6882
+epoch 13/20:  79%|███████▉  | 24077/30327 [51:15<6:20:09,  3.65s/it, acc=0.144, loss=21]Verification done (AgeDB-30): acc=84.82%, t=1.6586
+                                                                                        Running verification at step 390000...
+Verification done (LFW): acc=97.82%, t=1.2592
+Verification done (CFP-FP): acc=87.33%, t=1.6690
+epoch 13/20:  86%|████████▌ | 26077/30327 [55:30<4:20:14,  3.67s/it, acc=0.144, loss=21]Verification done (AgeDB-30): acc=85.45%, t=1.6610
+                                                                                        Running verification at step 392000...
+Verification done (LFW): acc=97.87%, t=1.2433
+Verification done (CFP-FP): acc=87.50%, t=1.6680
+epoch 13/20:  93%|█████████▎| 28077/30327 [59:44<2:14:58,  3.60s/it, acc=0.143, loss=21]Verification done (AgeDB-30): acc=85.25%, t=1.6663
+                                                                                        Running verification at step 394000...
+Verification done (LFW): acc=98.05%, t=1.2403
+Verification done (CFP-FP): acc=87.19%, t=1.6716
+epoch 13/20:  99%|█████████▉| 30077/30327 [1:03:58<15:00,  3.60s/it, acc=0.143, loss=21]Verification done (AgeDB-30): acc=85.60%, t=1.6643
+epoch 13/20: 100%|██████████| 30327/30327 [1:04:28<00:00,  7.84it/s, acc=0.143, loss=21]
+epoch 13/20 train_loss=21.0342 train_acc=0.142719 verif_acc=98.0500% verif_t=1.24 epoch_time=3868.2s ETA=07:31:17
+[CKPT] Saved checkpoints/epoch_13.pt and checkpoints/latest.pt
+                                                                                       Running verification at step 396000...
+Verification done (LFW): acc=98.03%, t=1.2633
+Verification done (CFP-FP): acc=87.44%, t=1.6569
+epoch 14/20:   6%|▌         | 1750/30327 [03:44<28:29:48,  3.59s/it, acc=0.137, loss=21]Verification done (AgeDB-30): acc=85.22%, t=1.6442
+                                                                                        Running verification at step 398000...
+Verification done (LFW): acc=98.00%, t=1.2377
+Verification done (CFP-FP): acc=87.40%, t=1.6825
+epoch 14/20:  12%|█▏        | 3750/30327 [07:59<27:24:06,  3.71s/it, acc=0.138, loss=21]Verification done (AgeDB-30): acc=85.50%, t=1.6747
+                                                                                        Running verification at step 400000...
+Verification done (LFW): acc=97.80%, t=1.2351
+Verification done (CFP-FP): acc=87.33%, t=1.6530
+epoch 14/20:  19%|█▉        | 5750/30327 [12:13<24:28:44,  3.59s/it, acc=0.136, loss=21]Verification done (AgeDB-30): acc=85.00%, t=1.6611
+                                                                                        Running verification at step 402000...
+Verification done (LFW): acc=97.70%, t=1.2600
+Verification done (CFP-FP): acc=86.90%, t=1.6313
+epoch 14/20:  26%|██▌       | 7750/30327 [16:27<22:36:44,  3.61s/it, acc=0.135, loss=21]Verification done (AgeDB-30): acc=85.47%, t=1.6753
+                                                                                        Running verification at step 404000...
+Verification done (LFW): acc=97.80%, t=1.2915
+Verification done (CFP-FP): acc=87.17%, t=1.6872
+epoch 14/20:  32%|███▏      | 9750/30327 [20:41<20:27:18,  3.58s/it, acc=0.135, loss=21]Verification done (AgeDB-30): acc=85.32%, t=1.6660
+                                                                                        Running verification at step 406000...
+Verification done (LFW): acc=97.68%, t=1.2050
+Verification done (CFP-FP): acc=87.01%, t=1.6460
+epoch 14/20:  39%|███▊      | 11750/30327 [24:55<18:44:53,  3.63s/it, acc=0.134, loss=21.1]Verification done (AgeDB-30): acc=85.28%, t=1.6777
+                                                                                           Running verification at step 408000...
+Verification done (LFW): acc=97.77%, t=1.2481
+Verification done (CFP-FP): acc=87.21%, t=1.6760
+epoch 14/20:  45%|████▌     | 13750/30327 [29:09<16:35:24,  3.60s/it, acc=0.134, loss=21.1]Verification done (AgeDB-30): acc=85.37%, t=1.6771
+                                                                                           Running verification at step 410000...
+Verification done (LFW): acc=97.85%, t=1.2790
+Verification done (CFP-FP): acc=87.43%, t=1.6745
+epoch 14/20:  52%|█████▏    | 15750/30327 [33:23<14:37:38,  3.61s/it, acc=0.133, loss=21.1]Verification done (AgeDB-30): acc=85.60%, t=1.6620
+                                                                                           Running verification at step 412000...
+Verification done (LFW): acc=97.70%, t=1.2120
+Verification done (CFP-FP): acc=87.39%, t=1.6933
+epoch 14/20:  59%|█████▊    | 17750/30327 [37:38<12:37:00,  3.61s/it, acc=0.133, loss=21.1]Verification done (AgeDB-30): acc=85.17%, t=1.6533
+                                                                                           Running verification at step 414000...
+Verification done (LFW): acc=97.67%, t=1.2499
+Verification done (CFP-FP): acc=87.44%, t=1.6883
+epoch 14/20:  65%|██████▌   | 19750/30327 [41:52<10:40:07,  3.63s/it, acc=0.132, loss=21.1]Verification done (AgeDB-30): acc=85.23%, t=1.6650
+                                                                                           Running verification at step 416000...
+Verification done (LFW): acc=97.77%, t=1.2694
+Verification done (CFP-FP): acc=87.26%, t=1.6582
+epoch 14/20:  72%|███████▏  | 21750/30327 [46:06<8:43:14,  3.66s/it, acc=0.131, loss=21.1] Verification done (AgeDB-30): acc=85.15%, t=1.6453
+                                                                                          Running verification at step 418000...
+Verification done (LFW): acc=97.92%, t=1.2966
+Verification done (CFP-FP): acc=87.16%, t=1.6824
+epoch 14/20:  78%|███████▊  | 23750/30327 [50:20<6:34:06,  3.60s/it, acc=0.131, loss=21.1]Verification done (AgeDB-30): acc=85.43%, t=1.6744
+                                                                                          Running verification at step 420000...
+Verification done (LFW): acc=97.93%, t=1.2171
+Verification done (CFP-FP): acc=87.07%, t=1.6446
+epoch 14/20:  85%|████████▍ | 25750/30327 [54:35<4:36:54,  3.63s/it, acc=0.13, loss=21.1]Verification done (AgeDB-30): acc=85.18%, t=1.6664
+                                                                                         Running verification at step 422000...
+Verification done (LFW): acc=97.62%, t=1.2632
+Verification done (CFP-FP): acc=87.37%, t=1.6713
+epoch 14/20:  92%|█████████▏| 27750/30327 [58:49<2:36:57,  3.65s/it, acc=0.13, loss=21.1]Verification done (AgeDB-30): acc=84.98%, t=1.6665
+                                                                                          Running verification at step 424000...
+Verification done (LFW): acc=97.90%, t=1.2584
+Verification done (CFP-FP): acc=87.53%, t=1.6512
+epoch 14/20:  98%|█████████▊| 29750/30327 [1:03:03<34:54,  3.63s/it, acc=0.129, loss=21.1]Verification done (AgeDB-30): acc=85.23%, t=1.6294
+epoch 14/20: 100%|██████████| 30327/30327 [1:04:12<00:00,  7.87it/s, acc=0.129, loss=21.1]
+epoch 14/20 train_loss=21.0687 train_acc=0.129140 verif_acc=97.9000% verif_t=1.26 epoch_time=3852.1s ETA=06:25:12
+[CKPT] Saved checkpoints/epoch_14.pt and checkpoints/latest.pt
+                                                                                       Running verification at step 426000...
+Verification done (LFW): acc=97.87%, t=1.2698
+Verification done (CFP-FP): acc=87.21%, t=1.6406
+epoch 15/20:   5%|▍         | 1423/30327 [03:06<28:50:21,  3.59s/it, acc=0.303, loss=20.9]Verification done (AgeDB-30): acc=85.37%, t=1.6499
+                                                                                          Running verification at step 428000...
+Verification done (LFW): acc=97.80%, t=1.2882
+Verification done (CFP-FP): acc=87.59%, t=1.6513
+epoch 15/20:  11%|█▏        | 3423/30327 [07:20<26:40:39,  3.57s/it, acc=0.335, loss=20.9]Verification done (AgeDB-30): acc=85.25%, t=1.6491
+                                                                                          Running verification at step 430000...
+Verification done (LFW): acc=97.90%, t=1.2166
+Verification done (CFP-FP): acc=87.19%, t=1.6409
+epoch 15/20:  18%|█▊        | 5423/30327 [11:34<24:54:36,  3.60s/it, acc=0.345, loss=20.9]Verification done (AgeDB-30): acc=85.58%, t=1.6745
+                                                                                          Running verification at step 432000...
+Verification done (LFW): acc=97.73%, t=1.2392
+Verification done (CFP-FP): acc=87.34%, t=1.6313
+epoch 15/20:  24%|██▍       | 7423/30327 [15:48<23:02:41,  3.62s/it, acc=0.349, loss=20.9]Verification done (AgeDB-30): acc=85.55%, t=1.6543
+                                                                                          Running verification at step 434000...
+Verification done (LFW): acc=97.97%, t=1.2351
+Verification done (CFP-FP): acc=87.14%, t=1.6725
+epoch 15/20:  31%|███       | 9423/30327 [20:02<21:18:45,  3.67s/it, acc=0.352, loss=20.9]Verification done (AgeDB-30): acc=84.92%, t=1.6659
+                                                                                          Running verification at step 436000...
+Verification done (LFW): acc=97.95%, t=1.2607
+Verification done (CFP-FP): acc=87.03%, t=1.6760
+epoch 15/20:  38%|███▊      | 11423/30327 [24:16<18:55:09,  3.60s/it, acc=0.354, loss=20.8]Verification done (AgeDB-30): acc=85.32%, t=1.6578
+                                                                                           Running verification at step 438000...
+Verification done (LFW): acc=97.95%, t=1.2619
+Verification done (CFP-FP): acc=87.57%, t=1.6296
+epoch 15/20:  44%|████▍     | 13423/30327 [28:31<17:23:06,  3.70s/it, acc=0.355, loss=20.8]Verification done (AgeDB-30): acc=85.27%, t=1.6631
+                                                                                           Running verification at step 440000...
+Verification done (LFW): acc=98.00%, t=1.2354
+Verification done (CFP-FP): acc=87.56%, t=1.6144
+epoch 15/20:  51%|█████     | 15423/30327 [32:45<15:04:05,  3.64s/it, acc=0.357, loss=20.8]Verification done (AgeDB-30): acc=85.08%, t=1.6818
+                                                                                           Running verification at step 442000...
+Verification done (LFW): acc=97.78%, t=1.2596
+Verification done (CFP-FP): acc=87.19%, t=1.6500
+epoch 15/20:  57%|█████▋    | 17423/30327 [37:00<12:56:40,  3.61s/it, acc=0.357, loss=20.8]Verification done (AgeDB-30): acc=85.53%, t=1.6340
+                                                                                           Running verification at step 444000...
+Verification done (LFW): acc=97.83%, t=1.2579
+Verification done (CFP-FP): acc=87.03%, t=1.6553
+epoch 15/20:  64%|██████▍   | 19423/30327 [41:14<11:03:24,  3.65s/it, acc=0.358, loss=20.8]Verification done (AgeDB-30): acc=85.35%, t=1.6446
+                                                                                           Running verification at step 446000...
+Verification done (LFW): acc=98.05%, t=1.2832
+Verification done (CFP-FP): acc=87.04%, t=1.6375
+epoch 15/20:  71%|███████   | 21423/30327 [45:44<9:04:10,  3.67s/it, acc=0.358, loss=20.8] Verification done (AgeDB-30): acc=85.37%, t=1.6599
+                                                                                          Running verification at step 448000...
+Verification done (LFW): acc=97.80%, t=1.2927
+Verification done (CFP-FP): acc=87.10%, t=1.6646
+epoch 15/20:  77%|███████▋  | 23423/30327 [50:27<7:08:40,  3.73s/it, acc=0.359, loss=20.8] Verification done (AgeDB-30): acc=85.37%, t=1.6455
+epoch 15/20:  80%|███████▉  | 24121/30327 [51:57<14:45,  7.01it/s, acc=0.359, loss=20.8]  

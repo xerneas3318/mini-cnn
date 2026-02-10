@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
     "opencv-python>=4.13.0.92",
     "torch>=2.10.0",
     "torchvision>=0.25.0",
