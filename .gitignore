@@ -13,4 +13,5 @@ rian/
 tester/__pycache__
 tester/embeddings.npz
 tester/embeddings_rian.npz
-
+tester/models/latest.pt
+tester/models/epoch_15.pt
