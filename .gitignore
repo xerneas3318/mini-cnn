@@ -6,6 +6,11 @@ dist/
 wheels/
 *.egg-info
 checkpoints/
-
+MTCNN/
 # Virtual environments
 .venv
+rian/
+tester/__pycache__
+tester/embeddings.npz
+tester/embeddings_rian.npz
+
