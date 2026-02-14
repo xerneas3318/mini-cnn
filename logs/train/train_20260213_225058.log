@@ -1,0 +1,4 @@
+[RUN] id=20260213_225058 epochs=20 emb_dim=512 verif_interval=5000
+[RUN] train_log_interval=1000 num_classes=85742
+[RUN] train_log=logs/train/train_20260213_225058.log test_log=logs/test/test_20260213_225058.log
+[RUN] qat=True save_int8=True

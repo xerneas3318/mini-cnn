@@ -10,6 +10,8 @@ from torch.nn import functional as F
 from tqdm import tqdm
 
 from dataloader import build_dataloaders
+from torchao import quantize_
+from torchao.quantization.quant_api import Int8WeightOnlyConfig
 
 
 def load_minicnn(emb_dim=512, width_mult=0.75):
@@ -17,7 +19,7 @@ def load_minicnn(emb_dim=512, width_mult=0.75):
     spec = importlib.util.spec_from_file_location("minicnn_module", minicnn_path)
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
-    return module.MiniCNN(emb_dim=emb_dim, width_mult=width_mult)
+    return module.MiniCNN(emb_dim=emb_dim, width_mult=width_mult), module
 
 
 def l2_norm(input, axis=1):
@@ -148,6 +150,7 @@ def main():
     num_epochs = 20
     verif_interval = 5000
     train_log_interval = 1000
+    use_torchao_int8 = True
 
     data_root = Path("~/Datasets").expanduser()
     train_loader, eval_loaders, train_dataset, _pairs = build_dataloaders(data_root)
@@ -174,7 +177,8 @@ def main():
     num_classes = len(set(train_dataset.labels))
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    model = load_minicnn(emb_dim=emb_dim).to(device)
+    model, minicnn_module = load_minicnn(emb_dim=emb_dim)
+    model = model.to(device)
     head = Arcface(embedding_size=emb_dim, classnum=num_classes, s=64.0, m=0.5).to(device)
 
     optimizer = torch.optim.SGD(
@@ -187,7 +191,7 @@ def main():
 
     scheduler = torch.optim.lr_scheduler.MultiStepLR(
         optimizer,
-        milestones=[6, 10, 14],
+        milestones=[5, 8, 10],
         gamma=0.3,
     )
 
@@ -202,6 +206,7 @@ def main():
     write_train(f"[RUN] id={run_id} epochs={num_epochs} emb_dim={emb_dim} verif_interval={verif_interval}")
     write_train(f"[RUN] train_log_interval={train_log_interval} num_classes={num_classes}")
     write_train(f"[RUN] train_log={train_log_path} test_log={test_log_path}")
+    write_train(f"[RUN] torchao_int8={use_torchao_int8}")
 
     for epoch in range(start_epoch, num_epochs):
         model.train()
@@ -328,6 +333,14 @@ def main():
         torch.save(state, ckpt_path)
         torch.save(state, ckpt_dir / "latest.pt")
         print(f"[CKPT] Saved {ckpt_path} and {ckpt_dir / 'latest.pt'}")
+#this is for quantizing the model to int8
+    if use_torchao_int8:
+        int8_model = load_minicnn(emb_dim=emb_dim)[0].eval()
+        int8_model.load_state_dict(model.state_dict(), strict=False)
+        quantize_(int8_model, Int8WeightOnlyConfig())
+        int8_path = ckpt_dir / "latest_int8.pt"
+        torch.save({"model_state": int8_model.state_dict()}, int8_path)
+        print(f"[CKPT] Saved {int8_path}")
 
 
 if __name__ == "__main__":
