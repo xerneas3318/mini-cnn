@@ -35,3 +35,4 @@ tester/models/epoch_15.pt
 *.avi
 *.mov
 *.mkv
+.nvimlog
