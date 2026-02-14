@@ -17,8 +17,8 @@ tester/models/latest.pt
 tester/models/epoch_15.pt
 # Large artifacts (exclude .pth as requested)
 *.pt
-*.ckpt
 *.npz
+*.ckpt
 *.npy
 *.bin
 *.tar
