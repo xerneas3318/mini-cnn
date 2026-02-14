@@ -15,3 +15,23 @@ tester/embeddings.npz
 tester/embeddings_rian.npz
 tester/models/latest.pt
 tester/models/epoch_15.pt
+# Large artifacts (exclude .pth as requested)
+*.pt
+*.ckpt
+*.npz
+*.npy
+*.bin
+*.tar
+*.zip
+*.7z
+# Media files (keep repo clean of images/videos)
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.webp
+*.mp4
+*.avi
+*.mov
+*.mkv
