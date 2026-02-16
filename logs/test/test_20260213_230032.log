@@ -1,0 +1,484 @@
+step=5000 Verification done (LFW): acc=61.48%, t=1.4237
+step=5000 Verification done (CFP-FP): acc=53.53%, t=2.3865
+step=5000 Verification done (AgeDB-30): acc=53.85%, t=0.0063
+step=5000 verif_time=18.6s
+step=10000 Verification done (LFW): acc=63.10%, t=1.6980
+step=10000 Verification done (CFP-FP): acc=57.44%, t=1.9579
+step=10000 Verification done (AgeDB-30): acc=50.05%, t=0.0221
+step=10000 verif_time=17.9s
+step=15000 Verification done (LFW): acc=63.73%, t=0.9047
+step=15000 Verification done (CFP-FP): acc=60.13%, t=1.7389
+step=15000 Verification done (AgeDB-30): acc=52.37%, t=0.2259
+step=15000 verif_time=18.3s
+step=20000 Verification done (LFW): acc=70.37%, t=0.7200
+step=20000 Verification done (CFP-FP): acc=61.73%, t=1.6375
+step=20000 Verification done (AgeDB-30): acc=54.25%, t=1.0167
+step=20000 verif_time=17.4s
+step=25000 Verification done (LFW): acc=74.98%, t=0.6857
+step=25000 Verification done (CFP-FP): acc=64.03%, t=1.2246
+step=25000 Verification done (AgeDB-30): acc=59.63%, t=0.9257
+step=25000 verif_time=17.6s
+step=30000 Verification done (LFW): acc=82.93%, t=0.7747
+step=30000 Verification done (CFP-FP): acc=71.01%, t=1.3560
+step=30000 Verification done (AgeDB-30): acc=64.57%, t=1.3545
+step=30000 verif_time=17.4s
+step=35000 Verification done (LFW): acc=89.83%, t=1.0460
+step=35000 Verification done (CFP-FP): acc=75.54%, t=1.4631
+step=35000 Verification done (AgeDB-30): acc=68.55%, t=1.5195
+step=35000 verif_time=17.9s
+step=40000 Verification done (LFW): acc=93.55%, t=1.0929
+step=40000 Verification done (CFP-FP): acc=79.29%, t=1.5459
+step=40000 Verification done (AgeDB-30): acc=73.38%, t=1.5985
+step=40000 verif_time=17.5s
+step=45000 Verification done (LFW): acc=95.08%, t=1.3064
+step=45000 Verification done (CFP-FP): acc=80.41%, t=1.6046
+step=45000 Verification done (AgeDB-30): acc=77.75%, t=1.6274
+step=45000 verif_time=17.2s
+step=50000 Verification done (LFW): acc=95.87%, t=1.3839
+step=50000 Verification done (CFP-FP): acc=81.14%, t=1.6420
+step=50000 Verification done (AgeDB-30): acc=80.52%, t=1.6443
+step=50000 verif_time=17.7s
+step=55000 Verification done (LFW): acc=96.40%, t=1.4060
+step=55000 Verification done (CFP-FP): acc=82.43%, t=1.6760
+step=55000 Verification done (AgeDB-30): acc=82.60%, t=1.6551
+step=55000 verif_time=17.1s
+step=60000 Verification done (LFW): acc=96.77%, t=1.4184
+step=60000 Verification done (CFP-FP): acc=82.97%, t=1.7088
+step=60000 Verification done (AgeDB-30): acc=84.43%, t=1.6780
+step=60000 verif_time=17.3s
+step=65000 Verification done (LFW): acc=97.27%, t=1.4262
+step=65000 Verification done (CFP-FP): acc=83.66%, t=1.7250
+step=65000 Verification done (AgeDB-30): acc=85.12%, t=1.6572
+step=65000 verif_time=16.9s
+step=70000 Verification done (LFW): acc=97.42%, t=1.4289
+step=70000 Verification done (CFP-FP): acc=83.26%, t=1.7233
+step=70000 Verification done (AgeDB-30): acc=86.20%, t=1.6513
+step=70000 verif_time=16.7s
+step=75000 Verification done (LFW): acc=97.78%, t=1.4621
+step=75000 Verification done (CFP-FP): acc=83.07%, t=1.7222
+step=75000 Verification done (AgeDB-30): acc=86.52%, t=1.6345
+step=75000 verif_time=16.7s
+step=80000 Verification done (LFW): acc=97.68%, t=1.4172
+step=80000 Verification done (CFP-FP): acc=83.26%, t=1.7163
+step=80000 Verification done (AgeDB-30): acc=87.13%, t=1.6526
+step=80000 verif_time=16.6s
+step=85000 Verification done (LFW): acc=97.80%, t=1.4534
+step=85000 Verification done (CFP-FP): acc=83.91%, t=1.7286
+step=85000 Verification done (AgeDB-30): acc=87.18%, t=1.6773
+step=85000 verif_time=16.6s
+step=90000 Verification done (LFW): acc=98.02%, t=1.4090
+step=90000 Verification done (CFP-FP): acc=83.63%, t=1.7148
+step=90000 Verification done (AgeDB-30): acc=87.27%, t=1.6333
+step=90000 verif_time=16.8s
+step=95000 Verification done (LFW): acc=97.97%, t=1.4394
+step=95000 Verification done (CFP-FP): acc=82.63%, t=1.7262
+step=95000 Verification done (AgeDB-30): acc=87.58%, t=1.6580
+step=95000 verif_time=16.7s
+step=100000 Verification done (LFW): acc=98.30%, t=1.4650
+step=100000 Verification done (CFP-FP): acc=83.61%, t=1.7174
+step=100000 Verification done (AgeDB-30): acc=88.18%, t=1.6626
+step=100000 verif_time=16.9s
+step=105000 Verification done (LFW): acc=98.02%, t=1.4489
+step=105000 Verification done (CFP-FP): acc=82.94%, t=1.7157
+step=105000 Verification done (AgeDB-30): acc=87.65%, t=1.7050
+step=105000 verif_time=16.7s
+step=110000 Verification done (LFW): acc=98.33%, t=1.4488
+step=110000 Verification done (CFP-FP): acc=83.81%, t=1.7165
+step=110000 Verification done (AgeDB-30): acc=88.17%, t=1.6878
+step=110000 verif_time=16.8s
+step=115000 Verification done (LFW): acc=98.50%, t=1.4810
+step=115000 Verification done (CFP-FP): acc=84.50%, t=1.7328
+step=115000 Verification done (AgeDB-30): acc=88.98%, t=1.6525
+step=115000 verif_time=16.6s
+step=120000 Verification done (LFW): acc=98.22%, t=1.4734
+step=120000 Verification done (CFP-FP): acc=83.20%, t=1.7304
+step=120000 Verification done (AgeDB-30): acc=88.07%, t=1.6542
+step=120000 verif_time=16.6s
+step=125000 Verification done (LFW): acc=98.18%, t=1.4850
+step=125000 Verification done (CFP-FP): acc=84.17%, t=1.7349
+step=125000 Verification done (AgeDB-30): acc=88.73%, t=1.7063
+step=125000 verif_time=16.9s
+step=130000 Verification done (LFW): acc=98.20%, t=1.4840
+step=130000 Verification done (CFP-FP): acc=84.01%, t=1.7178
+step=130000 Verification done (AgeDB-30): acc=88.45%, t=1.6934
+step=130000 verif_time=18.0s
+step=135000 Verification done (LFW): acc=98.28%, t=1.4740
+step=135000 Verification done (CFP-FP): acc=83.74%, t=1.7482
+step=135000 Verification done (AgeDB-30): acc=89.02%, t=1.6766
+step=135000 verif_time=17.3s
+step=140000 Verification done (LFW): acc=98.53%, t=1.4890
+step=140000 Verification done (CFP-FP): acc=83.70%, t=1.7398
+step=140000 Verification done (AgeDB-30): acc=88.87%, t=1.7101
+step=140000 verif_time=17.0s
+step=145000 Verification done (LFW): acc=98.70%, t=1.4760
+step=145000 Verification done (CFP-FP): acc=84.73%, t=1.7489
+step=145000 Verification done (AgeDB-30): acc=89.05%, t=1.6902
+step=145000 verif_time=16.8s
+step=150000 Verification done (LFW): acc=98.60%, t=1.4746
+step=150000 Verification done (CFP-FP): acc=83.93%, t=1.7316
+step=150000 Verification done (AgeDB-30): acc=88.97%, t=1.6810
+step=150000 verif_time=17.0s
+step=155000 Verification done (LFW): acc=98.65%, t=1.4750
+step=155000 Verification done (CFP-FP): acc=85.21%, t=1.7521
+step=155000 Verification done (AgeDB-30): acc=90.13%, t=1.6813
+step=155000 verif_time=16.7s
+step=160000 Verification done (LFW): acc=98.75%, t=1.4922
+step=160000 Verification done (CFP-FP): acc=85.96%, t=1.7371
+step=160000 Verification done (AgeDB-30): acc=90.22%, t=1.6635
+step=160000 verif_time=16.9s
+step=165000 Verification done (LFW): acc=98.85%, t=1.4711
+step=165000 Verification done (CFP-FP): acc=86.24%, t=1.7217
+step=165000 Verification done (AgeDB-30): acc=90.23%, t=1.6540
+step=165000 verif_time=16.9s
+step=170000 Verification done (LFW): acc=98.87%, t=1.5263
+step=170000 Verification done (CFP-FP): acc=85.69%, t=1.7383
+step=170000 Verification done (AgeDB-30): acc=90.80%, t=1.6560
+step=170000 verif_time=17.2s
+step=175000 Verification done (LFW): acc=98.77%, t=1.4958
+step=175000 Verification done (CFP-FP): acc=85.54%, t=1.7090
+step=175000 Verification done (AgeDB-30): acc=90.53%, t=1.6678
+step=175000 verif_time=17.0s
+step=180000 Verification done (LFW): acc=98.73%, t=1.4915
+step=180000 Verification done (CFP-FP): acc=85.79%, t=1.7428
+step=180000 Verification done (AgeDB-30): acc=90.15%, t=1.6504
+step=180000 verif_time=16.8s
+step=185000 Verification done (LFW): acc=98.72%, t=1.5080
+step=185000 Verification done (CFP-FP): acc=85.69%, t=1.7395
+step=185000 Verification done (AgeDB-30): acc=90.77%, t=1.6939
+step=185000 verif_time=17.1s
+step=190000 Verification done (LFW): acc=98.57%, t=1.4770
+step=190000 Verification done (CFP-FP): acc=85.74%, t=1.7451
+step=190000 Verification done (AgeDB-30): acc=90.72%, t=1.6718
+step=190000 verif_time=16.7s
+step=195000 Verification done (LFW): acc=98.75%, t=1.4712
+step=195000 Verification done (CFP-FP): acc=85.80%, t=1.7266
+step=195000 Verification done (AgeDB-30): acc=90.37%, t=1.6490
+step=195000 verif_time=16.7s
+step=200000 Verification done (LFW): acc=98.82%, t=1.5177
+step=200000 Verification done (CFP-FP): acc=86.00%, t=1.7394
+step=200000 Verification done (AgeDB-30): acc=90.73%, t=1.6661
+step=200000 verif_time=17.2s
+step=205000 Verification done (LFW): acc=98.75%, t=1.4915
+step=205000 Verification done (CFP-FP): acc=85.47%, t=1.7303
+step=205000 Verification done (AgeDB-30): acc=90.73%, t=1.6742
+step=205000 verif_time=16.6s
+step=210000 Verification done (LFW): acc=98.72%, t=1.4730
+step=210000 Verification done (CFP-FP): acc=85.76%, t=1.7280
+step=210000 Verification done (AgeDB-30): acc=91.12%, t=1.6342
+step=210000 verif_time=16.8s
+step=215000 Verification done (LFW): acc=98.85%, t=1.4781
+step=215000 Verification done (CFP-FP): acc=85.67%, t=1.7256
+step=215000 Verification done (AgeDB-30): acc=91.08%, t=1.6659
+step=215000 verif_time=16.6s
+step=220000 Verification done (LFW): acc=98.78%, t=1.5146
+step=220000 Verification done (CFP-FP): acc=85.37%, t=1.7499
+step=220000 Verification done (AgeDB-30): acc=90.65%, t=1.6954
+step=220000 verif_time=17.1s
+step=225000 Verification done (LFW): acc=98.78%, t=1.4805
+step=225000 Verification done (CFP-FP): acc=85.83%, t=1.7437
+step=225000 Verification done (AgeDB-30): acc=91.30%, t=1.6876
+step=225000 verif_time=16.9s
+step=230000 Verification done (LFW): acc=98.73%, t=1.4817
+step=230000 Verification done (CFP-FP): acc=85.37%, t=1.7568
+step=230000 Verification done (AgeDB-30): acc=90.52%, t=1.6613
+step=230000 verif_time=16.7s
+step=235000 Verification done (LFW): acc=98.77%, t=1.5065
+step=235000 Verification done (CFP-FP): acc=85.51%, t=1.7147
+step=235000 Verification done (AgeDB-30): acc=90.82%, t=1.6383
+step=235000 verif_time=16.9s
+step=240000 Verification done (LFW): acc=98.63%, t=1.5035
+step=240000 Verification done (CFP-FP): acc=86.27%, t=1.7595
+step=240000 Verification done (AgeDB-30): acc=90.97%, t=1.6516
+step=240000 verif_time=17.4s
+step=245000 Verification done (LFW): acc=98.77%, t=1.5006
+step=245000 Verification done (CFP-FP): acc=86.07%, t=1.7439
+step=245000 Verification done (AgeDB-30): acc=91.53%, t=1.6575
+step=245000 verif_time=17.0s
+step=250000 Verification done (LFW): acc=98.77%, t=1.5021
+step=250000 Verification done (CFP-FP): acc=86.24%, t=1.7461
+step=250000 Verification done (AgeDB-30): acc=91.50%, t=1.6572
+step=250000 verif_time=16.9s
+step=255000 Verification done (LFW): acc=98.63%, t=1.4715
+step=255000 Verification done (CFP-FP): acc=86.41%, t=1.7441
+step=255000 Verification done (AgeDB-30): acc=91.65%, t=1.6367
+step=255000 verif_time=16.9s
+step=260000 Verification done (LFW): acc=98.87%, t=1.4752
+step=260000 Verification done (CFP-FP): acc=86.00%, t=1.7440
+step=260000 Verification done (AgeDB-30): acc=91.53%, t=1.6579
+step=260000 verif_time=17.1s
+step=265000 Verification done (LFW): acc=98.92%, t=1.4711
+step=265000 Verification done (CFP-FP): acc=86.06%, t=1.7411
+step=265000 Verification done (AgeDB-30): acc=91.73%, t=1.6486
+step=265000 verif_time=17.3s
+step=270000 Verification done (LFW): acc=98.87%, t=1.5078
+step=270000 Verification done (CFP-FP): acc=86.10%, t=1.7359
+step=270000 Verification done (AgeDB-30): acc=91.52%, t=1.6747
+step=270000 verif_time=17.1s
+step=275000 Verification done (LFW): acc=98.92%, t=1.4805
+step=275000 Verification done (CFP-FP): acc=86.17%, t=1.7522
+step=275000 Verification done (AgeDB-30): acc=91.87%, t=1.6587
+step=275000 verif_time=16.6s
+step=280000 Verification done (LFW): acc=98.90%, t=1.4780
+step=280000 Verification done (CFP-FP): acc=86.33%, t=1.7548
+step=280000 Verification done (AgeDB-30): acc=91.78%, t=1.6486
+step=280000 verif_time=17.2s
+step=285000 Verification done (LFW): acc=98.85%, t=1.4958
+step=285000 Verification done (CFP-FP): acc=86.56%, t=1.7194
+step=285000 Verification done (AgeDB-30): acc=91.68%, t=1.6349
+step=285000 verif_time=16.8s
+step=290000 Verification done (LFW): acc=98.80%, t=1.4776
+step=290000 Verification done (CFP-FP): acc=86.51%, t=1.7420
+step=290000 Verification done (AgeDB-30): acc=91.77%, t=1.6512
+step=290000 verif_time=17.0s
+step=295000 Verification done (LFW): acc=98.90%, t=1.5035
+step=295000 Verification done (CFP-FP): acc=86.50%, t=1.7504
+step=295000 Verification done (AgeDB-30): acc=91.80%, t=1.6720
+step=295000 verif_time=16.6s
+step=300000 Verification done (LFW): acc=98.70%, t=1.5092
+step=300000 Verification done (CFP-FP): acc=85.86%, t=1.7411
+step=300000 Verification done (AgeDB-30): acc=91.88%, t=1.6458
+step=300000 verif_time=16.9s
+step=305000 Verification done (LFW): acc=98.82%, t=1.4788
+step=305000 Verification done (CFP-FP): acc=86.09%, t=1.7516
+step=305000 Verification done (AgeDB-30): acc=91.58%, t=1.6736
+step=305000 verif_time=16.7s
+step=310000 Verification done (LFW): acc=98.80%, t=1.4866
+step=310000 Verification done (CFP-FP): acc=86.49%, t=1.7483
+step=310000 Verification done (AgeDB-30): acc=91.70%, t=1.6548
+step=310000 verif_time=16.6s
+step=315000 Verification done (LFW): acc=98.83%, t=1.5025
+step=315000 Verification done (CFP-FP): acc=86.31%, t=1.7370
+step=315000 Verification done (AgeDB-30): acc=91.78%, t=1.6440
+step=315000 verif_time=16.6s
+step=320000 Verification done (LFW): acc=98.87%, t=1.4982
+step=320000 Verification done (CFP-FP): acc=85.83%, t=1.7614
+step=320000 Verification done (AgeDB-30): acc=91.72%, t=1.6630
+step=320000 verif_time=17.3s
+step=325000 Verification done (LFW): acc=98.98%, t=1.4764
+step=325000 Verification done (CFP-FP): acc=85.94%, t=1.7548
+step=325000 Verification done (AgeDB-30): acc=91.62%, t=1.6559
+step=325000 verif_time=16.7s
+step=330000 Verification done (LFW): acc=98.92%, t=1.5117
+step=330000 Verification done (CFP-FP): acc=86.03%, t=1.7518
+step=330000 Verification done (AgeDB-30): acc=91.92%, t=1.6614
+step=330000 verif_time=17.0s
+step=335000 Verification done (LFW): acc=98.63%, t=1.5014
+step=335000 Verification done (CFP-FP): acc=86.34%, t=1.7388
+step=335000 Verification done (AgeDB-30): acc=91.75%, t=1.6410
+step=335000 verif_time=16.5s
+step=340000 Verification done (LFW): acc=98.82%, t=1.5032
+step=340000 Verification done (CFP-FP): acc=86.07%, t=1.7322
+step=340000 Verification done (AgeDB-30): acc=91.55%, t=1.6540
+step=340000 verif_time=16.9s
+step=345000 Verification done (LFW): acc=98.83%, t=1.4882
+step=345000 Verification done (CFP-FP): acc=86.17%, t=1.7387
+step=345000 Verification done (AgeDB-30): acc=91.75%, t=1.6460
+step=345000 verif_time=16.7s
+step=350000 Verification done (LFW): acc=98.90%, t=1.4828
+step=350000 Verification done (CFP-FP): acc=86.26%, t=1.7507
+step=350000 Verification done (AgeDB-30): acc=91.72%, t=1.6447
+step=350000 verif_time=16.7s
+step=355000 Verification done (LFW): acc=98.88%, t=1.4967
+step=355000 Verification done (CFP-FP): acc=86.10%, t=1.7663
+step=355000 Verification done (AgeDB-30): acc=91.72%, t=1.6488
+step=355000 verif_time=17.0s
+step=360000 Verification done (LFW): acc=98.88%, t=1.4742
+step=360000 Verification done (CFP-FP): acc=85.86%, t=1.7665
+step=360000 Verification done (AgeDB-30): acc=91.50%, t=1.6611
+step=360000 verif_time=17.9s
+step=365000 Verification done (LFW): acc=98.88%, t=1.4917
+step=365000 Verification done (CFP-FP): acc=86.50%, t=1.7385
+step=365000 Verification done (AgeDB-30): acc=91.73%, t=1.6460
+step=365000 verif_time=16.5s
+step=370000 Verification done (LFW): acc=98.85%, t=1.4886
+step=370000 Verification done (CFP-FP): acc=86.11%, t=1.7405
+step=370000 Verification done (AgeDB-30): acc=91.97%, t=1.6482
+step=370000 verif_time=17.2s
+step=375000 Verification done (LFW): acc=98.88%, t=1.5019
+step=375000 Verification done (CFP-FP): acc=85.56%, t=1.7552
+step=375000 Verification done (AgeDB-30): acc=91.78%, t=1.6592
+step=375000 verif_time=17.0s
+step=380000 Verification done (LFW): acc=98.88%, t=1.4822
+step=380000 Verification done (CFP-FP): acc=85.87%, t=1.7655
+step=380000 Verification done (AgeDB-30): acc=91.73%, t=1.6437
+step=380000 verif_time=17.3s
+step=385000 Verification done (LFW): acc=98.93%, t=1.4861
+step=385000 Verification done (CFP-FP): acc=86.13%, t=1.7479
+step=385000 Verification done (AgeDB-30): acc=91.57%, t=1.6707
+step=385000 verif_time=16.7s
+step=390000 Verification done (LFW): acc=98.93%, t=1.4787
+step=390000 Verification done (CFP-FP): acc=86.00%, t=1.7696
+step=390000 Verification done (AgeDB-30): acc=91.85%, t=1.6564
+step=390000 verif_time=16.9s
+step=395000 Verification done (LFW): acc=98.82%, t=1.4846
+step=395000 Verification done (CFP-FP): acc=85.83%, t=1.7570
+step=395000 Verification done (AgeDB-30): acc=91.67%, t=1.6354
+step=395000 verif_time=16.9s
+step=400000 Verification done (LFW): acc=98.80%, t=1.5049
+step=400000 Verification done (CFP-FP): acc=86.29%, t=1.7440
+step=400000 Verification done (AgeDB-30): acc=91.78%, t=1.6483
+step=400000 verif_time=17.3s
+step=405000 Verification done (LFW): acc=98.78%, t=1.4876
+step=405000 Verification done (CFP-FP): acc=86.17%, t=1.7503
+step=405000 Verification done (AgeDB-30): acc=91.50%, t=1.6510
+step=405000 verif_time=16.7s
+step=410000 Verification done (LFW): acc=98.83%, t=1.4966
+step=410000 Verification done (CFP-FP): acc=86.23%, t=1.7589
+step=410000 Verification done (AgeDB-30): acc=91.35%, t=1.6543
+step=410000 verif_time=17.0s
+step=415000 Verification done (LFW): acc=98.98%, t=1.5055
+step=415000 Verification done (CFP-FP): acc=86.54%, t=1.7514
+step=415000 Verification done (AgeDB-30): acc=91.92%, t=1.6787
+step=415000 verif_time=17.3s
+step=420000 Verification done (LFW): acc=98.85%, t=1.4975
+step=420000 Verification done (CFP-FP): acc=86.34%, t=1.7489
+step=420000 Verification done (AgeDB-30): acc=91.83%, t=1.6562
+step=420000 verif_time=17.1s
+step=425000 Verification done (LFW): acc=98.93%, t=1.5062
+step=425000 Verification done (CFP-FP): acc=86.17%, t=1.7650
+step=425000 Verification done (AgeDB-30): acc=91.90%, t=1.6444
+step=425000 verif_time=16.5s
+step=430000 Verification done (LFW): acc=98.88%, t=1.4892
+step=430000 Verification done (CFP-FP): acc=85.94%, t=1.7465
+step=430000 Verification done (AgeDB-30): acc=91.98%, t=1.6421
+step=430000 verif_time=16.7s
+step=435000 Verification done (LFW): acc=98.87%, t=1.4924
+step=435000 Verification done (CFP-FP): acc=86.00%, t=1.7464
+step=435000 Verification done (AgeDB-30): acc=91.78%, t=1.6471
+step=435000 verif_time=16.7s
+step=440000 Verification done (LFW): acc=98.87%, t=1.4995
+step=440000 Verification done (CFP-FP): acc=86.13%, t=1.7456
+step=440000 Verification done (AgeDB-30): acc=92.00%, t=1.6591
+step=440000 verif_time=16.9s
+step=445000 Verification done (LFW): acc=98.85%, t=1.4956
+step=445000 Verification done (CFP-FP): acc=85.97%, t=1.7471
+step=445000 Verification done (AgeDB-30): acc=91.62%, t=1.6619
+step=445000 verif_time=17.2s
+step=450000 Verification done (LFW): acc=98.82%, t=1.4927
+step=450000 Verification done (CFP-FP): acc=86.09%, t=1.7535
+step=450000 Verification done (AgeDB-30): acc=92.15%, t=1.6595
+step=450000 verif_time=16.8s
+step=455000 Verification done (LFW): acc=98.92%, t=1.4877
+step=455000 Verification done (CFP-FP): acc=86.11%, t=1.7547
+step=455000 Verification done (AgeDB-30): acc=91.97%, t=1.6531
+step=455000 verif_time=17.2s
+step=460000 Verification done (LFW): acc=98.95%, t=1.4830
+step=460000 Verification done (CFP-FP): acc=86.33%, t=1.7437
+step=460000 Verification done (AgeDB-30): acc=91.87%, t=1.6462
+step=460000 verif_time=17.3s
+step=465000 Verification done (LFW): acc=98.77%, t=1.4979
+step=465000 Verification done (CFP-FP): acc=85.99%, t=1.7457
+step=465000 Verification done (AgeDB-30): acc=91.68%, t=1.6473
+step=465000 verif_time=17.1s
+step=470000 Verification done (LFW): acc=98.83%, t=1.5061
+step=470000 Verification done (CFP-FP): acc=86.06%, t=1.7511
+step=470000 Verification done (AgeDB-30): acc=91.93%, t=1.6516
+step=470000 verif_time=16.7s
+step=475000 Verification done (LFW): acc=98.97%, t=1.4799
+step=475000 Verification done (CFP-FP): acc=86.46%, t=1.7504
+step=475000 Verification done (AgeDB-30): acc=91.68%, t=1.6700
+step=475000 verif_time=16.7s
+step=480000 Verification done (LFW): acc=98.90%, t=1.5033
+step=480000 Verification done (CFP-FP): acc=85.99%, t=1.7520
+step=480000 Verification done (AgeDB-30): acc=91.93%, t=1.6596
+step=480000 verif_time=16.8s
+step=485000 Verification done (LFW): acc=98.85%, t=1.5020
+step=485000 Verification done (CFP-FP): acc=85.70%, t=1.7479
+step=485000 Verification done (AgeDB-30): acc=91.92%, t=1.6633
+step=485000 verif_time=17.0s
+step=490000 Verification done (LFW): acc=98.90%, t=1.4933
+step=490000 Verification done (CFP-FP): acc=86.31%, t=1.7618
+step=490000 Verification done (AgeDB-30): acc=92.02%, t=1.6372
+step=490000 verif_time=16.9s
+step=495000 Verification done (LFW): acc=98.93%, t=1.4824
+step=495000 Verification done (CFP-FP): acc=86.50%, t=1.7515
+step=495000 Verification done (AgeDB-30): acc=91.82%, t=1.6555
+step=495000 verif_time=17.4s
+step=500000 Verification done (LFW): acc=98.83%, t=1.5086
+step=500000 Verification done (CFP-FP): acc=86.20%, t=1.7631
+step=500000 Verification done (AgeDB-30): acc=92.17%, t=1.6565
+step=500000 verif_time=17.1s
+step=505000 Verification done (LFW): acc=98.77%, t=1.5143
+step=505000 Verification done (CFP-FP): acc=86.17%, t=1.7617
+step=505000 Verification done (AgeDB-30): acc=91.87%, t=1.6525
+step=505000 verif_time=16.7s
+step=510000 Verification done (LFW): acc=98.87%, t=1.4881
+step=510000 Verification done (CFP-FP): acc=86.40%, t=1.7514
+step=510000 Verification done (AgeDB-30): acc=91.75%, t=1.6590
+step=510000 verif_time=17.0s
+step=515000 Verification done (LFW): acc=98.77%, t=1.4999
+step=515000 Verification done (CFP-FP): acc=86.44%, t=1.7460
+step=515000 Verification done (AgeDB-30): acc=91.68%, t=1.6576
+step=515000 verif_time=17.3s
+step=520000 Verification done (LFW): acc=98.93%, t=1.4738
+step=520000 Verification done (CFP-FP): acc=85.86%, t=1.7583
+step=520000 Verification done (AgeDB-30): acc=91.75%, t=1.6661
+step=520000 verif_time=17.1s
+step=525000 Verification done (LFW): acc=98.80%, t=1.5014
+step=525000 Verification done (CFP-FP): acc=86.13%, t=1.7364
+step=525000 Verification done (AgeDB-30): acc=91.72%, t=1.6588
+step=525000 verif_time=16.8s
+step=530000 Verification done (LFW): acc=98.95%, t=1.4869
+step=530000 Verification done (CFP-FP): acc=86.24%, t=1.7549
+step=530000 Verification done (AgeDB-30): acc=91.55%, t=1.6637
+step=530000 verif_time=17.2s
+step=535000 Verification done (LFW): acc=98.70%, t=1.5080
+step=535000 Verification done (CFP-FP): acc=86.14%, t=1.7522
+step=535000 Verification done (AgeDB-30): acc=91.65%, t=1.6613
+step=535000 verif_time=17.3s
+step=540000 Verification done (LFW): acc=98.92%, t=1.4685
+step=540000 Verification done (CFP-FP): acc=86.19%, t=1.7271
+step=540000 Verification done (AgeDB-30): acc=91.85%, t=1.6529
+step=540000 verif_time=16.7s
+step=545000 Verification done (LFW): acc=98.82%, t=1.4955
+step=545000 Verification done (CFP-FP): acc=86.10%, t=1.7663
+step=545000 Verification done (AgeDB-30): acc=91.82%, t=1.6559
+step=545000 verif_time=16.9s
+step=550000 Verification done (LFW): acc=98.70%, t=1.5056
+step=550000 Verification done (CFP-FP): acc=86.09%, t=1.7470
+step=550000 Verification done (AgeDB-30): acc=91.67%, t=1.6656
+step=550000 verif_time=16.8s
+step=555000 Verification done (LFW): acc=98.78%, t=1.4939
+step=555000 Verification done (CFP-FP): acc=86.21%, t=1.7636
+step=555000 Verification done (AgeDB-30): acc=91.72%, t=1.6568
+step=555000 verif_time=16.7s
+step=560000 Verification done (LFW): acc=98.88%, t=1.5091
+step=560000 Verification done (CFP-FP): acc=86.00%, t=1.7473
+step=560000 Verification done (AgeDB-30): acc=92.10%, t=1.6655
+step=560000 verif_time=16.7s
+step=565000 Verification done (LFW): acc=98.87%, t=1.5139
+step=565000 Verification done (CFP-FP): acc=86.17%, t=1.7536
+step=565000 Verification done (AgeDB-30): acc=92.00%, t=1.6528
+step=565000 verif_time=16.9s
+step=570000 Verification done (LFW): acc=98.87%, t=1.5218
+step=570000 Verification done (CFP-FP): acc=86.27%, t=1.7415
+step=570000 Verification done (AgeDB-30): acc=91.90%, t=1.6592
+step=570000 verif_time=16.8s
+step=575000 Verification done (LFW): acc=98.83%, t=1.5204
+step=575000 Verification done (CFP-FP): acc=86.00%, t=1.7428
+step=575000 Verification done (AgeDB-30): acc=91.93%, t=1.6421
+step=575000 verif_time=17.1s
+step=580000 Verification done (LFW): acc=98.90%, t=1.4980
+step=580000 Verification done (CFP-FP): acc=86.10%, t=1.7574
+step=580000 Verification done (AgeDB-30): acc=91.97%, t=1.6783
+step=580000 verif_time=16.7s
+step=585000 Verification done (LFW): acc=98.90%, t=1.4799
+step=585000 Verification done (CFP-FP): acc=86.37%, t=1.7526
+step=585000 Verification done (AgeDB-30): acc=91.93%, t=1.6822
+step=585000 verif_time=17.7s
+step=590000 Verification done (LFW): acc=98.80%, t=1.5117
+step=590000 Verification done (CFP-FP): acc=85.96%, t=1.7535
+step=590000 Verification done (AgeDB-30): acc=91.87%, t=1.6606
+step=590000 verif_time=17.2s
+step=595000 Verification done (LFW): acc=98.78%, t=1.5349
+step=595000 Verification done (CFP-FP): acc=86.26%, t=1.7336
+step=595000 Verification done (AgeDB-30): acc=91.98%, t=1.6465
+step=595000 verif_time=17.1s
+step=600000 Verification done (LFW): acc=98.88%, t=1.5021
+step=600000 Verification done (CFP-FP): acc=85.97%, t=1.7427
+step=600000 Verification done (AgeDB-30): acc=91.87%, t=1.6728
+step=600000 verif_time=17.4s
+step=605000 Verification done (LFW): acc=98.78%, t=1.4826
+step=605000 Verification done (CFP-FP): acc=86.03%, t=1.7413
+step=605000 Verification done (AgeDB-30): acc=91.75%, t=1.6503
+step=605000 verif_time=17.1s

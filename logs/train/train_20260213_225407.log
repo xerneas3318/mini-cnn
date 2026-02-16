@@ -2,3 +2,6 @@
 [RUN] train_log_interval=1000 num_classes=85742
 [RUN] train_log=logs/train/train_20260213_225407.log test_log=logs/test/test_20260213_225407.log
 [RUN] torchao_int8=True
+step=1000 epoch=1 loss=46.0151 acc=0.000010 lr=0.01
+step=2000 epoch=1 loss=45.5804 acc=0.000010 lr=0.01
+step=3000 epoch=1 loss=44.7970 acc=0.000035 lr=0.01
